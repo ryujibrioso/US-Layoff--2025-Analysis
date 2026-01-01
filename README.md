@@ -66,3 +66,5 @@ Monthly analysis shows whether layoffs are:
 
 
 Below is the interactive page from the Tableu dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed [here.](https://public.tableau.com/views/USLayoffs2025Analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="1379" height="598" alt="image" src="https://github.com/user-attachments/assets/130d2779-6803-4a18-9c3f-ebb921554467" />
