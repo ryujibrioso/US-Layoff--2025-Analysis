@@ -1,0 +1,661 @@
+,state,company,city,number_of_workers,warn_received_date,effective_date,action,temporary_or_permanent,union,county,industry,notes,source,industry_normalized
+9,Wisconsin,Milwaukee Forge LLC Update,Milwaukee,60.0,2025-08-19,2025-10-30,Change to Layoff Schedule; Change to Number of Affected Workers,,"USW Local No. 3205, IAMAW Lodge D.S. 140",Milwaukee,Iron & Steel Forging,Update to 6/20/2025 notice,WARN,"Agriculture, Forestry, Fishing & Hunting"
+11,Maryland,"Catalent Maryland, Inc.",Hanover,5.0,2025-08-19,2025-10-17,Mass Layoff - No Recall,,,,325412,"7031 Ridge Road Hanover, MD 21076",WARN,Manufacturing
+18,California,Corteva Agriscience LLC,901 Loveridge Road  Pittsburg CA 94565,10.0,2025-08-18,2025-10-23,Layoff Permanent,,,Contra Costa County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+19,California,Kaiser Foundation Hospitals,One Kaiser Plaza  Oakland CA 94612,2.0,2025-08-18,2025-08-03,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+20,California,Kaiser Foundation Hospitals (1830),1830 California Ave  Corona CA 92881,2.0,2025-08-18,2025-08-03,Layoff Permanent,,,Riverside County,62 Healthcare and Social Assistance,,WARN,Healthcare
+21,California,Kaiser Foundation Hospitals (1850),1850 California Ave  Corona CA 92881,2.0,2025-08-18,2025-08-03,Layoff Permanent,,,Riverside County,62 Healthcare and Social Assistance,,WARN,Healthcare
+24,California,"GSC Solutions, Inc.","530 Water Street, 5th Floor  Oakland CA 94607",32.0,2025-08-18,2025-07-09,Layoff Permanent,,,Alameda County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+25,California,Regional Center of the East Bay,675 Hegenberger Rd. Ste. 200  Oakland CA 94621,108.0,2025-08-18,2025-10-05,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+26,Florida,"Tata Consultancy Services, Ltd",Jacksonville,58.0,2025-08-18,2025-10-17,Layoff,Permanent,,,Information,,WARN,Information
+30,Maryland,"Zeco Systems, Inc.",Remote,3.0,2025-08-18,2025-10-30,Mass Layoff - No Recall,,,,335999,"767 S Alameda, Suite 200 Los Angeles, CA 90021",WARN,Manufacturing
+33,Florida,General Dynamics Information Technology,Doral,151.0,2025-08-17,2025-10-23,Layoff,Permanent,,,"Professional, Scientific, and Technical Services",,WARN,Accommodation & Food Services
+37,Maryland,"Synergy Enterprises, Inc.",Bethesda,13.0,2025-08-17,2025-09-06,Mass Layoff - No Recall,,,,541611,"6116 Executive Boulevard, Suite 111 North Bethesda, MD 20852",WARN,Professional Services
+38,Maryland,"Zenimax Media, Inc.",Cockeysville,62.0,2025-08-17,2025-10-14,Mass Layoff - No Recall,,,,513210,"200 International Circle Cockeysville, MD 21030",WARN,Information
+39,Maryland,Atlantic Union Bankshares Corporation (Atlantic Union),Columbia,51.0,2025-08-17,2025-10-14,Mass Layoff - No Recall,,,,522110,"6831 Benjamin Franklin Drive (Columbia Gateway Building) Columbia, MD 21046",WARN,Finance & Insurance
+40,Maryland,"Global Communities, Inc.",Bethesda,44.0,2025-08-17,2025-09-14,Mass Layoff - No Recall,,,,624230,"7700 Wisconsin Avenue, Suite 1100 Bethesda, MD 20814",WARN,Healthcare
+41,California,"Zeco Systems, Inc.","767 S Alameda, Suite 200  Los Angeles CA 90021",114.0,2025-08-17,2025-10-03,Layoff Permanent,,,Los Angeles County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+47,California,"Anaheim Arena Management, LLC",2695 E Katella Avenue  Anaheim CA 92806,91.0,2025-08-14,2025-10-14,Layoff Permanent,,,Orange County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+50,California,Adventist Health White Memorial & Montebello,1720 East Cesar E. Chavez Ave  Los Angeles CA 90003,54.0,2025-08-14,2025-10-05,Layoff Permanent,,,Los Angeles County,55 Management of Companies and Enterprises,,WARN,Other
+51,California,Adventist Health Glendale,1509 Wilson Terrace  Glendale CA 91206,58.0,2025-08-14,2025-10-05,Layoff Permanent,,,Los Angeles County,55 Management of Companies and Enterprises,,WARN,Other
+52,California,Adventist Health 1,1 Adventist Health Way  Roseville CA 95661,296.0,2025-08-14,2025-10-05,Layoff Permanent,,,Placer County,55 Management of Companies and Enterprises,,WARN,Other
+53,California,"Cisco Systems, Inc.",560 McCarthy Blvd  Milpitas CA 95035,157.0,2025-08-14,2025-10-12,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+54,California,Adventist Health Simi Valley,2975 Sycamore Drive  Simi Valley CA 93065,1.0,2025-08-14,2025-08-14,Layoff Permanent,,,Ventura County,62 Healthcare and Social Assistance,,WARN,Healthcare
+59,Iowa,John Deere Waterloo Works,Waterloo,71.0,2025-08-14,2025-09-21,Mass Layoff,,,Black Hawk,Manufacturing,,WARN,Manufacturing
+61,California,"Delaware North Companies Travel Hospitality Services, Inc.",1 World Way  Los Angeles CA 90045,92.0,2025-08-13,2025-10-30,Layoff Permanent,,,Los Angeles County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+62,California,University of Southern California,3551 Trousdale Pkwy  Los Angeles CA 90089,54.0,2025-08-13,2025-09-29,Layoff Permanent,,,Los Angeles County,61 Educational Services,,WARN,Education Services
+63,California,Warner Music Inc.,777 South Santa Fe Avenue  Los Angeles CA 90021,56.0,2025-08-13,2025-10-30,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+64,California,"Oracle America, Inc.",4230 Leonard Stocking Drive  Santa Clara CA 95054,101.0,2025-08-13,2025-10-12,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+65,California,Adventist Health Simi Valley,2975 Sycamore Drive  Simi Valley CA 93065,2.0,2025-08-13,2025-07-31,Layoff Permanent,,,Ventura County,62 Healthcare and Social Assistance,,WARN,Healthcare
+72,California,Block,"1955 Broadway, Suite 600  Oakland CA 94612",5.0,2025-08-12,2025-10-12,Layoff Permanent,,,Alameda County,51 Information,,WARN,Information
+77,Missouri,"Block, Inc.",St. Louis,23.0,2025-08-11,2025-08-12,Layoff,,,St. Louis,Software Publisher,,WARN,Other
+78,Florida,"Block, Inc.",Apopka,1.0,2025-08-11,2025-08-11,Layoff,Permanent,,,"Professional, Scientific, and Technical Services",,WARN,Accommodation & Food Services
+81,Wisconsin,Nasco Education LLC Update,Fort Atkinson,42.0,2025-08-10,2025-08-21,Change to Layoff Schedule; Change to Number of Affected Workers,,,Jefferson,Other Professional Equip Merch Whls,Update to 6/23/2025 notice,WARN,Professional Services
+83,California,Altera Corporation,101 Innovation Drive  San Jose CA 95134,82.0,2025-08-10,2025-10-07,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+89,Florida,Marriott Vacations Worldwide,Lakeland,136.0,2025-08-07,2025-10-06,Layoff,Permanent,,,Accommodation and Food Services,,WARN,Accommodation & Food Services
+92,California,"TriLink Biotechnologies, LLC (10770)",10770 Wateridge Cir.  San Diego CA 92121,69.0,2025-08-07,2025-10-05,Layoff Permanent,,,San Diego County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+93,California,"TriLink Biotechnologies, LLC (5717)",5717 Pacific Center Blvd.  San Diego CA 92121,5.0,2025-08-07,2025-10-05,Layoff Permanent,,,San Diego County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+94,California,"TriLink Biotechnologies, LLC (10240)",10240 Flanders Ct.  San Diego CA 92121,5.0,2025-08-07,2025-10-05,Layoff Permanent,,,San Diego County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+95,California,"TriLink Biotechnologies, LLC (10247)",10247 Flanders Ct.  San Diego CA 92121,11.0,2025-08-07,2025-10-05,Layoff Permanent,,,San Diego County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+96,California,Diamond Baseball Holdings,601 Neece Drive  Modesto CA 95351,7.0,2025-08-07,2025-09-29,Layoff Permanent,,,Stanislaus County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+103,Iowa,"Maverik, Inc",Des Moines,100.0,2025-08-05,2025-10-05,Mass Layoff,,,Polk,Retail Trade,,WARN,Retail Trade
+105,California,"Gilead Sciences, Inc.",4010 Ocean Ranch Blvd  Oceanside CA 92056,5.0,2025-08-05,2025-10-09,Layoff Permanent,,,San Diego County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+106,California,Marathon Staffing Solutions Inc,1600 Solano St. Suite C  Corning CA 96021,9.0,2025-08-05,2025-10-06,Layoff Permanent,,,Tehama County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+107,California,Marathon Staff Solutions Inc. - W. Sacramento,"2950 Beacon Boulevard, Suite 45  West Sacramento CA 95691",62.0,2025-08-05,2025-10-06,Layoff Permanent,,,Yolo County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+113,Indiana,"Shine Early Learning, Inc",Fishers,57.0,2025-08-04,2025-09-30,Layoff,,,,624110,Child Care Services,WARN,Healthcare
+116,California,University of Southern California,1500 San Pablo Street (Keck)  Los Angeles CA 90033,45.0,2025-08-04,2025-10-03,Layoff Permanent,,,Los Angeles County,61 Educational Services,,WARN,Education Services
+117,California,"SIE Orange County Kitchen, LLC",1400 Anduril Drive  Costa Mesa CA 92626,64.0,2025-08-04,2025-09-30,Layoff Permanent,,,Orange County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+121,Indiana,Navient Solutions LLC,Lebanon,128.0,2025-08-03,2025-10-02,Layoff,,,,52,Finance and Insurance,WARN,Finance & Insurance
+124,Florida,BayFirst National Bank,Saint Petersburg,52.0,2025-08-03,,Layoff,Permanent,,,Finance and Insurance,,WARN,Finance & Insurance
+132,California,"Poseida Therapeutics, Inc.","9390 Towne Centre Dr., #200  San Diego CA 92121",52.0,2025-08-03,2025-09-30,Layoff Permanent,,,San Diego County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+133,Maryland,"AccelerEd, LLC",Bethesda,57.0,2025-08-03,2025-10-14,Mass Layoff - No Recall,,,,611710,"7315 Wisconsin Avenue, Suite 400 Bethesda, MD 20814",WARN,Education Services
+145,California,Host International Inc.,6900 Airport Blvd.  Sacramento CA 95837,70.0,2025-07-31,2025-09-30,Layoff Temporary,,,Sacramento County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+147,Maryland,"a.i. solutions, Inc.","Lanham, Greenbelt",51.0,2025-07-31,2025-09-30,Mass Layoff - No Recall,,,,541715,"4500 Forbes Blvd., Suite 300 Lanham, MD 20706 and 8800 Greenbelt Road Greenbelt, MD 20771",WARN,Professional Services
+153,Florida,"MV Transportation, Inc.",Naples,146.0,2025-07-30,,Layoff,Permanent,Transport Workers Union of America,,Transportation and Warehousing,,WARN,Transportation & Warehousing
+156,Illinois,Community Development Institute Head Start,Monmouth,25.0,2025-07-30,2025-09-29,Layoff,Permanent,No,"Knox, Warren",Health Care and Social Assistance - Child and Youth Services,,WARN,Accommodation & Food Services
+176,California,Children's Specialists of San Diego,7910 Frost Street  San Diego CA 92123,55.0,2025-07-30,2025-10-30,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+177,California,Stanford University,450 Jane Stanford Way  Stanford CA 94305,363.0,2025-07-30,2025-09-29,Layoff Permanent,,,Santa Clara County,61 Educational Services,,WARN,Education Services
+190,Iowa,Federal Express Corporation,Cedar Rapids,57.0,2025-07-29,2025-08-31,Mass Layoff,,,Linn,Transportation and Warehousing,,WARN,Transportation & Warehousing
+197,California,"Planned Parenthood Mar Monte, Inc.",6095 N. 1st Sreet  Fresno CA 93710,4.0,2025-07-29,2025-09-23,Layoff Permanent,,,Fresno County,62 Healthcare and Social Assistance,,WARN,Healthcare
+199,California,Planned Parenthood Mar Monte,2633 16th Street  Bakersfield CA 93301,2.0,2025-07-29,2025-09-23,Layoff Permanent,,,Kern County,62 Healthcare and Social Assistance,,WARN,Healthcare
+200,California,Planned Parenthood Mar Monte,3166 Collins Drive  Merced CA 95348,2.0,2025-07-29,2025-07-23,Layoff Permanent,,,Merced County,62 Healthcare and Social Assistance,,WARN,Healthcare
+201,California,"Planned Parenthood Mar Monte, Inc.","201 29th Street, Suite B  Sacramento CA 95816",1.0,2025-07-29,2025-09-24,Layoff Permanent,,,Sacramento County,62 Healthcare and Social Assistance,,WARN,Healthcare
+202,California,"Warner Bros. Discovery, Inc. (100)",100 S. California Street  Burbank CA 91505,11.0,2025-07-29,2025-10-03,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+203,California,"Warner Bros. Discovery, Inc. (200)",200 S. California Street  Burbank CA 91505,38.0,2025-07-29,2025-10-03,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+204,California,"Warner Bros. Discovery, Inc. (4000)",4000 Warner Blvd  Burbank CA 91522,3.0,2025-07-29,2025-10-03,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+205,California,Recology Vallejo,2021 Broadway  Vallejo CA 94589,25.0,2025-07-29,2025-09-29,Layoff Permanent,,,Solano County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+211,Illinois,"Ryder Integrated Logistics, Inc.",East Moline,32.0,2025-07-28,2025-09-26,Layoff,Permanent,No,Rock Island,"Rental and Leasing - Truck, Utility Trailer, and RV",,WARN,Other
+214,California,Kaiser Foundation Hospitals,One Kaiser Plaza  Oakland CA 94612,6.0,2025-07-28,2025-07-27,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+215,California,Kaiser Foundation Hospitals (393),393 E. Walnut St  Pasadena CA 91188,1.0,2025-07-28,2025-07-27,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+216,California,Kaiser Foundation Hospitals (74),74 N. Pasadena Ave  Pasadena CA 91103,1.0,2025-07-28,2025-07-27,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+217,California,Kaiser Foundation Hospitals (99),99 S. Oakland Ave  Pasadena CA 91101,3.0,2025-07-28,2025-07-27,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+218,California,"CRST Expedited, Inc. dba CRST The Transportation Solution",5350 Wilson St.  JURUPA VALLEY CA 92509,7.0,2025-07-28,2025-09-26,Layoff Permanent,,,Riverside County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+221,California,Thermo Fisher Scientific (5823),5823 Newton Dr  Carlsbad CA 92008,52.0,2025-07-28,2025-09-14,Layoff Permanent,,,San Diego County,31-33 Manufacturing,,WARN,Manufacturing
+222,California,Thermo Fisher Scientific (5781),5781 Van Allen Way  Carlsbad CA 92008,33.0,2025-07-28,2025-09-14,Layoff Permanent,,,San Diego County,31-33 Manufacturing,,WARN,Manufacturing
+227,Florida,Materia Group Corporation,Boca Raton,77.0,2025-07-27,,Layoff,Permanent,,,Mining,,WARN,"Mining, Quarrying, & Oil/Gas Extraction"
+240,California,Williamson Morgan & Associates LLC,320 S Milliken Avenue Suite H  Ontario CA 91761,22.0,2025-07-22,2025-09-21,Layoff Not known at this time,,,San Bernardino County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+244,California,Kaiser Foundation Hospitals,5820 Owens Dr  Pleasanton CA 94588,3.0,2025-07-21,2025-07-20,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+260,California,Gee Heavy Machinery,45051 Industrial Drive  Fremont CA 94538,7.0,2025-07-17,2025-07-20,Layoff Permanent,,,Alameda County,42 Wholesale Trade,,WARN,Retail Trade
+261,California,"Primo Brands, Inc.",5377 E Home Avenue  Fresno CA 93727,3.0,2025-07-17,2025-09-15,Layoff Permanent,,,Fresno County,31-33 Manufacturing,,WARN,Manufacturing
+262,California,KIRA Government Services,Building 359 Reeves Blvd.  Lemoore CA 93245,11.0,2025-07-17,2025-08-10,Layoff Permanent,,,Kings County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+266,California,Ventura Coastal,531 W. Poplar Avenue  Tipton CA 93272,70.0,2025-07-17,2025-09-23,Layoff Temporary,,,Tulare County,42 Wholesale Trade,,WARN,Retail Trade
+268,Maryland,BioNTech US Inc.,Gaithersburg,32.0,2025-07-17,2025-09-15,Mass Layoff - No Recall,,,,541714,"25 West Watkins Mill Road Gaithersburg, MD 20878",WARN,Professional Services
+273,California,"Genentech, Inc.",1 DNA Way  South San Francisco CA 94080,87.0,2025-07-16,2025-09-14,Layoff Permanent,,,San Mateo County,31-33 Manufacturing,,WARN,Manufacturing
+274,California,Leah's Pantry,"2204 Garnet Avenue, Suite 304  San Diego CA 92109",40.0,2025-07-16,2025-09-29,Layoff Permanent,,,San Diego County,81 Other Services Except Public Administration,,WARN,Other Services
+275,California,Levi Strauss & Co.,1155 Battery Street  San Francisco CA 94111,44.0,2025-07-16,2025-09-11,Layoff Permanent,,,San Francisco County,44-45 Retail Trade,,WARN,Retail Trade
+277,California,Clark Pacific,40600 County Road 18C  Woodland CA 95776,65.0,2025-07-16,2025-09-18,Layoff Permanent,,,Yolo County,23 Construction,,WARN,Construction
+281,Florida,KIRA Services LLC and KIRA Training Services,"Jacksonville, Altoona, Key West, Dunnellon",29.0,2025-07-15,2025-08-10,Layoff,Permanent,IBEW Local 177; IAM Local 971,,Public Administration,,WARN,Public Administration
+286,California,Kaiser Foundation Hospitals - Pleasanton,5820 Owens Dr.  Pleasanton CA 94588,2.0,2025-07-15,2025-07-13,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+287,California,Kaiser Foundation Hospitals - Pasadena,393 E. Walnut St.  Pasadena CA 91188,3.0,2025-07-15,2025-07-13,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+288,California,Paramount Global,1575 N. Gower Street  Los Angeles CA 90028,1.0,2025-07-15,2025-06-24,Layoff Permanent,,,Los Angeles County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+290,California,Mental Health Association of San Francisco,"870 Market Street, #658  San Francisco CA 94102",198.0,2025-07-15,2025-09-14,Layoff Permanent,,,San Francisco County,81 Other Services Except Public Administration,,WARN,Other Services
+300,California,Corteva Agriscience,901 Loveridge Road  Pittsburg CA 94565,4.0,2025-07-14,2025-09-25,Layoff Permanent,,,Contra Costa County,11 Agriculture Forestry Fishing Hunting,,WARN,"Agriculture, Forestry, Fishing & Hunting"
+301,California,Blue Shield of California - Oakland,601 12th Street  Oakland CA 94607,70.0,2025-07-14,2025-09-22,Layoff Permanent,,,Alameda County,52 Finance and Insurance,,WARN,Finance & Insurance
+302,California,"Blue Shield of California - Town Center, Building C","4203 Town Center Blvd, Building C  El Dorado CA 95762",6.0,2025-07-14,2025-09-22,Layoff Permanent,,,El Dorado County,52 Finance and Insurance,,WARN,Finance & Insurance
+303,California,"Blue shield of California - Town Center, Building B",4205 Town Center Blvd. Building B  El Dorado CA 95762,32.0,2025-07-14,2025-09-22,Layoff Permanent,,,El Dorado County,52 Finance and Insurance,,WARN,Finance & Insurance
+304,California,Blue Shield of California - Long Beach,3840 Kilroy Airport Way  Long Beach CA 90806,11.0,2025-07-14,2025-09-22,Layoff Permanent,,,Los Angeles County,52 Finance and Insurance,,WARN,Finance & Insurance
+305,California,Blue Shield of California - Woodland Hills,6300 Canoga Avenue  Woodland Hills CA 91367,10.0,2025-07-14,2025-09-22,Layoff Permanent,,,Los Angeles County,52 Finance and Insurance,,WARN,Finance & Insurance
+306,California,Blue Shield of California - Rancho Cordova,3300 Zinfandel Drive  Rancho Cordova CA 95670,3.0,2025-07-14,2025-09-22,Layoff Permanent,,,Sacramento County,52 Finance and Insurance,,WARN,Finance & Insurance
+307,California,Blue Shield of California - San Diego,"3131 Camino Del Rio, SUite #1300  San Diego CA 92108",2.0,2025-07-14,2025-09-22,Layoff Permanent,,,San Diego County,52 Finance and Insurance,,WARN,Finance & Insurance
+308,California,Blue Shield of California - Lodi,3021 Reynolds Ranch Parkway  Lodi CA 95240,2.0,2025-07-14,2025-09-22,Layoff Permanent,,,San Joaquin County,52 Finance and Insurance,,WARN,Finance & Insurance
+309,California,Blue Shield of California - Redding,4700 Bechelli Lane  Redding CA 96002,2.0,2025-07-14,2025-09-22,Layoff Permanent,,,Shasta County,52 Finance and Insurance,,WARN,Finance & Insurance
+314,Illinois,Compass Group dba TouchPoint Support Services at Prime Health Fox Knoll,Aurora,15.0,2025-07-13,2025-08-27,Layoff,Permanent,No,Kane,Food Service Contractor,,WARN,Other
+315,Illinois,Compass Group dba TouchPoint Support Services at Prime Health Heritage Village,Kankakee,10.0,2025-07-13,2025-08-27,Layoff,Permanent,No,Kankakee,Food Service Contractor,,WARN,Other
+316,Illinois,Compass Group dba TouchPoint Support Services at Prime Health Resurrection Place,Park Ridge,21.0,2025-07-13,2025-08-27,Layoff,Permanent,No,Cook,Food Service Contractor,,WARN,Other
+317,Illinois,Compass Group,Joliet,27.0,2025-07-13,2025-08-27,Layoff,Permanent,No,Will,Food Service Contractor,,WARN,Other
+320,California,"LMB Mortgage Services, Inc. dba LowerMyBills.com","12181 Bluff Creek Drive, Suite 250  Playa Vista CA 90094",38.0,2025-07-13,2025-09-11,Layoff Permanent,,,Los Angeles County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+321,California,Intel Corporation (Robert Noyce),2200 Mission College Boulevard  Santa Clara CA 95054,387.0,2025-07-13,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+323,California,Intel Corporation (SC-1),3065 Bowers Avenue  Santa Clara CA 95054,5.0,2025-07-13,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+324,California,Intel Corporation (SC-2),3065 Bowers Avenue  Santa Clara CA 95054,44.0,2025-07-13,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+325,California,Intel Corporation (SC-9),3601 Juliette Lane  Santa Clara CA 95054-1513,53.0,2025-07-13,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+326,California,Intel Corporation (SC-11),2191 Laurelwood Rd  Santa Clara CA 95054,13.0,2025-07-13,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+327,California,Intel Corporation (SC-12),3600 Juliette Lane  Santa Clara CA 95054,234.0,2025-07-13,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+331,Maryland,"Veyer, LLC",Jessup,46.0,2025-07-10,2025-09-11,Mass Layoff - No Recall,,,,541614,"8205 Patuxent Range Road Jessup, MD 20794",WARN,Professional Services
+332,California,Quixote Studio Services (1011),1011 N Fuller Ave  West Hollywood CA 90046,8.0,2025-07-10,2025-07-09,Layoff Permanent,,,Los Angeles County,53 Real Estate and Rental Leasing,,WARN,Other
+333,California,Quixote Studio Services (10252),10252 Norris Avenue  Pacoima CA 91331,11.0,2025-07-10,2025-07-09,Layoff Permanent,,,Los Angeles County,53 Real Estate and Rental Leasing,,WARN,Other
+334,California,Quixote Studio Services (12137),12137 Montague Street  Pacoima CA 91331,1.0,2025-07-10,2025-07-09,Layoff Permanent,,,Los Angeles County,53 Real Estate and Rental Leasing,,WARN,Other
+335,California,Quixote Studio Services (10262),10262 Norris Ave  Pacoima CA 91331,2.0,2025-07-10,2025-07-09,Layoff Permanent,,,Los Angeles County,53 Real Estate and Rental Leasing,,WARN,Other
+336,California,Quixote Studio Services (11473),11473 Penrose St  Sun Valley CA 91352,37.0,2025-07-10,2025-07-09,Layoff Permanent,,,Los Angeles County,53 Real Estate and Rental Leasing,,WARN,Other
+337,California,Quixote Studio Services (14002),14002 Balboa Blvd  Sylmar CA 91342,7.0,2025-07-10,2025-07-09,Layoff Permanent,,,Los Angeles County,53 Real Estate and Rental Leasing,,WARN,Other
+338,California,Quixote Studio Services (13334),13334 Ralston Ave  Sylmar CA 91342,16.0,2025-07-10,2025-07-09,Layoff Permanent,,,Los Angeles County,53 Real Estate and Rental Leasing,,WARN,Other
+339,California,Intel Corporation,1900 Prairie City Rd  Folsom CA 95630,344.0,2025-07-10,2025-07-10,Layoff Permanent,,,Sacramento County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+343,Iowa,Southeast Service Corporation dba Services for Education,Mount Vernon,31.0,2025-07-10,2025-08-10,Mass Layoff,,,Linn,Administrative and Support and Waste Management and Remediation Services,,WARN,Accommodation & Food Services
+351,Kentucky,"Omniplex World Services, Corp",,9.0,2025-07-09,2025-07-30,Layoff,,,Boone,561612,,WARN,Administrative & Support Services
+352,Kentucky,Constellis,,1.0,2025-07-09,2025-07-30,Layoff,,,Boone,561612,,WARN,Administrative & Support Services
+354,California,"GSC Logistics, Inc.","555 Maritime Street, Building 512  Oakland CA 94607",25.0,2025-07-09,2025-07-09,Layoff Permanent,,,Alameda County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+355,California,"GSC National Transportation, Inc","530 Water Street, 5th Floor  Oakland CA 94607",38.0,2025-07-09,2025-07-09,Layoff Permanent,,,Alameda County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+357,California,(3909) San Diego LGBT Community Center,3909 Center St  San Diego CA 92103,60.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+358,California,(1640) San Diego LGBT Community Center,1640 Broadway  San Diego CA 92101,7.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+359,California,(1045) San Diego LGBT Community Center,1045 11th Ave.  San Diego CA 92101,6.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+360,California,(3636) San Diego LGBT Community Center,"3636 5th Ave., Suite 300  San Diego CA 92103",20.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+361,California,(3878) San Diego LGBT Community Center,3878 Old Town Ave.  San Diego CA 92110,3.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+362,California,(514) San Diego LGBT Community Center,514 Pennsylvania Ave.  San Diego CA 92103,2.0,2025-07-09,2025-07-06,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+363,California,(1807) San Diego LGBT Community Center,"1807 Robinson Ave., Suite 106  San Diego CA 92103",5.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+364,California,(3851) San Diego LGBT Community Center,3851 Rosecrans St.  San Diego CA 92110,1.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+365,California,(1180) San Diego LGBT Community Center,"1180 3rd Ave., Suite C1  Chula Vista CA 91911",3.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+366,California,(3045) San Diego LGBT Community Center,"3045 Beyer Blvd., Suite D-101  San Diego CA 92104",1.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+367,California,(134) San Diego LGBT Community Center,134 Grapevine Rd.  Vista CA 92083,1.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+368,California,(520) San Diego LGBT Community Center,"520 N. Coast Hwy., Suite 102  Oceanside CA 92054",1.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+369,California,(460) San Diego LGBT Community Center,"460 Magnolia Ave., Suite 100,  El Cajon CA 92020",1.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+370,California,(131) San Diego LGBT Community Center,131 Avocado Ave.  El Cajon CA 92020,1.0,2025-07-09,2025-09-05,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+371,California,"Planned Parenthood Mar Monte, Inc.",1691 The Alameda  San Jose CA 95126,17.0,2025-07-09,2025-07-08,Layoff Permanent,,,Santa Clara County,62 Healthcare and Social Assistance,,WARN,Healthcare
+383,California,Kaiser Foundation Hospitals,5820 Owens Dr.  Pleasanton CA 94588,2.0,2025-07-08,2025-07-06,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+384,California,University of Southern California,3551 Trousdale Pkwy  Los Angeles CA 90089,55.0,2025-07-08,2025-09-09,Layoff Permanent,,,Los Angeles County,61 Educational Services,,WARN,Education Services
+386,California,"Pacira BioSciences, Inc.",10450 Science Center Dr  San Diego CA 92121,71.0,2025-07-08,2025-09-06,Layoff Permanent,,,San Diego County,31-33 Manufacturing,,WARN,Manufacturing
+389,Iowa,The Mutual Group,West Des Moines,34.0,2025-07-08,2025-08-07,Mass Layoff,,,Polk,Finance and Insurance,,WARN,Finance & Insurance
+406,California,Intel Corporation (Robert Noyce Building),2200 Mission College Boulevard  Santa Clara CA 95054,184.0,2025-07-07,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+408,California,Activision Blizzard,16215 Alton Pkwy  Irvine CA 92618,73.0,2025-07-07,2025-08-30,Layoff Permanent,,,Orange County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+415,Florida,"Sofgen Pharmaceuticals, LLC",Riviera Beach,57.0,2025-07-06,,Layoff,Permanent,,,Manufacturing,,WARN,Manufacturing
+416,Illinois,LSC Communications MCL LLC dba Enru Logistics,Bolingbrook,180.0,2025-07-06,,Mass Layoff,Permanent,No,Will,Information - Directory and Mailing List Publishers,,WARN,Information
+422,Maryland,"Science Systems and Applications, Inc. (SSAI)",Lanham,149.0,2025-07-06,2025-08-30,Mass Layoff - No Recall,,,,541715,"10210 Greenbelt Road, Suite 600 Lanham, MD 20706",WARN,Professional Services
+428,California,Paramount Global (1575),1575 N. Gower Street  Los Angeles CA 90038,48.0,2025-07-06,2025-08-08,Layoff Permanent,,,Los Angeles County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+429,California,Paramount Global (5555),5555 Melrose Avenue  Los Angeles CA 90038,61.0,2025-07-06,2025-08-08,Layoff Permanent,,,Los Angeles County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+436,California,"Cruise, LLC - 640 Cesar Chavez",640 Cesar Chavez Street  San Francisco CA 94124,2.0,2025-07-02,2025-07-02,Layoff Permanent,,,San Francisco County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+437,California,"Cruise, LLC - 1201 Bryant",1201 Bryant Street  San Francisco CA 94013,85.0,2025-07-02,2025-07-02,Layoff Permanent,,,San Mateo County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+438,California,"Cruise, LLC - 840 W",840 W California Avenue  Sunnyvale CA 94086,14.0,2025-07-02,2025-07-02,Layoff Permanent,,,Santa Clara County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+439,Maryland,"Eurofins Lancaster Laboratories Professional Scientific Services, LLC",Frederick,25.0,2025-07-02,2025-09-02,Mass Layoff - No Recall,,,,541380,"9021 Bennett Creek Boulevard Frederick, MD 21704",WARN,Professional Services
+440,Maryland,"L3Harris Technologies, Inc.",Columbia,31.0,2025-07-02,2025-09-09,Mass Layoff - No Recall,,,,334511,"7138 Columbia Gateway Drive, Suite 100 and 7130 Columbia Gateway Drive, Columbia, MD 21046",WARN,Manufacturing
+441,Maryland,WMBE Payrolling Inc. dba TCWGlobal (contracted by Zenimax),Rockville,30.0,2025-07-02,2025-08-31,Mass Layoff - No Recall,,,,541214,"1370 Piccard Drive, Suite 120 Rockville, MD 20850",WARN,Professional Services
+442,Maryland,"Zenimax Media, Inc.",Rockville,164.0,2025-07-02,2025-08-31,Mass Layoff - No Recall,,,,513210,"1370 Piccard Drive, Suite 120 Rockville, MD 20850",WARN,Information
+443,Florida,"Pourlessoins, LLC dba Synergy Health Services and Zomleben, LLC dba Synergy Health Solutions","Saint Augustine, Tallahassee, Tampa, Tavares, Vero Beach, Winter Haven, Winter Park, Winter Springs, Zellwood, Altamonte Springs, Apopka, Daytona Beach, Deltona, Dunnellon, Jacksonville, Kissimmee, Lake City, Lake Mary, Longwood, Milton, Mount Dora, Ocoee, Orlando, Panama City, Sanford, Sorrento",68.0,2025-07-01,2025-08-30,Layoff,Permanent,,,Health Care and Social Assistance,45 employees are FL residents,WARN,Healthcare
+445,Wisconsin,United States Cellular Corporation - Revision 1,,0.0,2025-07-01,2025-07-31,Change to Layoff Schedule,,,,Wireless Telecom Carriers (except Satellite),,WARN,Other
+449,Iowa,CommUnity Crisis Services,Iowa City,49.0,2025-07-01,2025-07-16,Mass Layoff,,,Johnson,Health Care and Social Assistance,,WARN,Healthcare
+461,California,Coastal Trading Ventures,10605 Jamacha Blvd  Spring Valley CA 91978,74.0,2025-07-01,2025-09-06,Layoff Permanent,,,San Diego County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+482,Florida,"Gulf Coast Optometry, P.A., dba Global Care Optometry","Altamonte Springs, Boynton Beach, Bradenton, Brandon, Cape Coral, Carrollwood, Clearwater, Daytona Beach, Estero, Estrella, Eustis, Fort Myers, Fort Walton Beach, Jacksonville, Kissimmee, Lady Lake, Lake Mary, Lake Worth, Lakeland, Largo, Melbourne, Merritt Island, Naples, New Port Richey, North Clearwater, Ocala, Ocoee, Orange Park, Orlando, Palm Beach Gardens, Port Charlotte, Port St. Lucie, Riverview, Sarasota, St. Peterburg, Tampa, Venice, Waterford Lakes, Wesley Chapel",116.0,2025-06-30,,Layoff,Permanent,,,Health Care and Social Assistance,43 locations statewide,WARN,Healthcare
+495,Missouri,Priority Yard & Train,Kansas City,75.0,2025-06-30,2025-08-30,Layoff,,,Jackson,Logistics,,WARN,Other
+501,California,Santa Fe Springs Swap Meet,13963 Alondra Blvd.  Santa Fe Springs CA 90670,109.0,2025-06-30,2025-06-30,Layoff Not known at this time,,,Los Angeles County,44-45 Retail Trade,,WARN,Retail Trade
+507,California,Sharp HealthCare - 8695,8695 Spectrum Center Blvd.  San Diego CA 92123,244.0,2025-06-30,2025-09-01,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+508,California,Sharp HealthCare - 751,751 Medical Center Court  Chula Vista CA 91911,34.0,2025-06-30,2025-09-01,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+509,California,Sharp HealthCare - 250,250 Prospect Place  Coronado CA 92118,1.0,2025-06-30,2025-09-01,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+510,California,Sharp HealthCare - 5555,5555 Grossmont Center Dr.  La Mesa CA 91942,40.0,2025-06-30,2025-09-01,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+511,California,Sharp HealthCare - 7901,7901 Frost Street  San Diego CA 92123,62.0,2025-06-30,2025-09-01,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+512,California,Sharp HealthCare - 5651,"5651 Copley Dr., Suite A  San Diego CA 92111",13.0,2025-06-30,2025-09-01,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+517,Iowa,Lennox Industries,Marshalltown,62.0,2025-06-29,2025-07-31,Mass Layoff,,,Marshall,Manufacturing,,WARN,Manufacturing
+521,Maryland,"AirBoss Defense Group, LLC",Jessup,23.0,2025-06-29,2025-09-01,Mass Layoff - No Recall,,,,336414,"8261 Preston Court Jessup, MD 20794",WARN,Manufacturing
+522,California,Bicycle Transit Systems,164 W Jefferson Blvd  Los Angeles CA 90007,65.0,2025-06-29,2025-08-30,Layoff Permanent,,,Los Angeles County,53 Real Estate and Rental Leasing,,WARN,Other
+523,California,Araca Ink LLC,459 Park Avenue  San Fernando CA 91340,64.0,2025-06-29,2025-09-04,Layoff Permanent,,,Los Angeles County,31-33 Manufacturing,,WARN,Manufacturing
+524,California,Intel Corporation - Robert Noyce,2200 Mission College Blvd.  Santa Clara CA 95054,57.0,2025-06-29,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+525,California,Intel Corporation - SC-1 3065 Bowers,3065 Bowers Avenue  Santa Clara CA 95054,1.0,2025-06-29,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+526,California,Intel Corporation - SC-2,3065 Bowers Avenue  Santa Clara CA 95054,1.0,2025-06-29,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+527,California,Intel Corporation - SC-9,3601 Juliette Lane  Santa Clara CA 95054,4.0,2025-06-29,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+528,California,Intel Corporation - SC-11,2191 Laurelwood Road  Santa Clara CA 95054,2.0,2025-06-29,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+529,California,Intel Corporation,3600 Juliette Lane  Santa Clara CA 95054,45.0,2025-06-29,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+530,California,"Supernal, LLC - 401",401 Kato Terrance  Fremont CA 94539,27.0,2025-06-29,2025-06-29,Layoff Permanent,,,Alameda County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+531,California,"Supernal, LLC - 1062","1062 Flight Line, 2nd Floor  Mojave CA 93501",1.0,2025-06-29,2025-06-29,Layoff Permanent,,,Kern County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+533,California,"Supernal, LLC - 15555",15555 Laguna Canyon Road  Irvine CA 92618,20.0,2025-06-29,2025-06-29,Layoff Permanent,,,Orange County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+534,California,"Supernal, LLC - 117",117 Waterworks Way  Irvine CA 92618,5.0,2025-06-29,2025-06-29,Layoff Permanent,,,Orange County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+541,California,"Beachbody, LLC",400 North Continental Blvd.  El Segundo CA 90245,70.0,2025-06-26,2025-08-24,Layoff Permanent,,,Los Angeles County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+544,Florida,"Group 1001 Resources, LLC",Miramar,32.0,2025-06-25,2025-09-30,Layoff,Permanent,,,Manufacturing,,WARN,Manufacturing
+547,California,"Van Law Food Products, Inc.",2325 Moore Ave  Fullerton CA 92833,89.0,2025-06-25,2025-08-28,Layoff Permanent,,,Orange County,31-33 Manufacturing,,WARN,Manufacturing
+548,California,Cushman & Wakefield (222),222 2nd Street  San Francisco CA 94105,10.0,2025-06-25,2025-08-27,Layoff Permanent,,,San Francisco County,62 Healthcare and Social Assistance,,WARN,Healthcare
+549,California,Cushman & Wakefield (543),543 Howard St  San Francisco CA 94105,1.0,2025-06-25,2025-08-27,Layoff Permanent,,,San Francisco County,62 Healthcare and Social Assistance,,WARN,Healthcare
+550,California,Cushman & Wakefield,6410 Via Real  Carpinteria CA 93013,6.0,2025-06-25,2025-08-27,Layoff Permanent,,,Santa Barbara County,62 Healthcare and Social Assistance,,WARN,Healthcare
+551,California,Cushman & Wakefield (401),401 San Antonio Rd  Mountain View CA 94040,1.0,2025-06-25,2025-08-27,Layoff Permanent,,,Santa Clara County,62 Healthcare and Social Assistance,,WARN,Healthcare
+552,California,Cushman & Wakefield (455),455 E Middlefield Rd  Mountain View CA 94043,2.0,2025-06-25,2025-08-27,Layoff Permanent,,,Santa Clara County,62 Healthcare and Social Assistance,,WARN,Healthcare
+553,California,Cushman & Wakefield (1000),1000 W Maude Avenue  Sunnyvale CA 94085,12.0,2025-06-25,2025-08-27,Layoff Permanent,,,Santa Clara County,62 Healthcare and Social Assistance,,WARN,Healthcare
+554,California,Cushman & Wakefield (845),845 W Maude Ave  Sunnyvale CA 94085,49.0,2025-06-25,2025-08-27,Layoff Permanent,,,Santa Clara County,62 Healthcare and Social Assistance,,WARN,Healthcare
+561,Illinois,"Group 1001 Resources, LLC",Park Ridge,32.0,2025-06-24,,Layoff,Permanent,No,Cook,Human Resources Consulting Services,,WARN,Professional Services
+565,California,The Trevor Project,PO Box 69232  West Hollywood CA 90069,240.0,2025-06-24,2025-07-16,Layoff Permanent,,,Los Angeles County,81 Other Services Except Public Administration,,WARN,Other Services
+566,California,Pacific Premier Bank,"17900 Von Karman Avenue, Suite 1200  Irvine CA 92614",78.0,2025-06-24,2025-07-31,Layoff Permanent,,,Orange County,52 Finance and Insurance,,WARN,Finance & Insurance
+571,Indiana,Columbus Regional Health,Columbus,50.0,2025-06-23,2025-06-23,Layoff,,,,62199900,All Other Miscellaneous Ambulatory Health Care Services,WARN,Healthcare
+585,California,"Prospect Medical Systems, LLC","600 City Parkway West, 10th Floor  Orange CA 92868",125.0,2025-06-22,2025-06-30,Layoff Permanent,,,San Bernardino County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+592,California,Intel Corporation - Robert Noyce Building,2200 Mission College Blvd.  Santa Clara CA 95054,76.0,2025-06-19,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+593,California,Intel Corporation - SC-12,3600 Juliette Lane  Santa Clara CA 95054,26.0,2025-06-19,2025-07-14,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+601,California,"Scout Distribution, LLC - City of Industry",120 Puente Ave  City of Industry CA 91746,87.0,2025-06-18,2025-08-21,Layoff Permanent,,,Los Angeles County,42 Wholesale Trade,,WARN,Retail Trade
+602,California,"Scout Distribution, LLC - San Diego",10119 Carroll Canyon Road  San Diego CA 92131,5.0,2025-06-18,2025-08-21,Layoff Permanent,,,San Diego County,42 Wholesale Trade,,WARN,Retail Trade
+604,California,Walmart (640),640 W. California Ave  Sunnyvale CA 94086,129.0,2025-06-17,2025-08-21,Layoff Permanent,,,Santa Clara County,62 Healthcare and Social Assistance,,WARN,Healthcare
+605,California,Walmart (840),840 W. California Ave  Sunnyvale CA 94086,135.0,2025-06-17,2025-08-21,Layoff Permanent,,,Santa Clara County,62 Healthcare and Social Assistance,,WARN,Healthcare
+606,California,Walmart (860),860 W California Ave  Sunnyvale CA 94086,98.0,2025-06-17,2025-08-21,Layoff Permanent,,,Santa Clara County,62 Healthcare and Social Assistance,,WARN,Healthcare
+607,California,Walmart (680),680 W California Ave  Sunnyvale CA 94086,19.0,2025-06-17,2025-08-21,Layoff Permanent,,,Santa Clara County,62 Healthcare and Social Assistance,,WARN,Healthcare
+610,California,Paramount Global -1575 Gower,1575 N. Gower Street  Los Angeles CA 90028,41.0,2025-06-17,2025-08-08,Layoff Permanent,,,Los Angeles County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+611,California,Paramount Global - 5555 Melrose,5555 Melrose Ave  Los Angeles CA 90038,47.0,2025-06-17,2025-08-08,Layoff Permanent,,,Los Angeles County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+612,California,"McDonald's Restaurants of California, Inc.",14850 Victory Blvd.  Van Nuys CA 91411,87.0,2025-06-17,2025-08-18,Layoff Temporary,,,Los Angeles County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+613,California,Kaiser Foundation Hospitals,5820 Owens Dr  Pleasanton CA 94588,3.0,2025-06-17,2025-06-15,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+614,California,Kaiser Foundation Hospitals (74 N),74 N. Pasadena Ave  Pasadena CA 91103,1.0,2025-06-17,2025-06-15,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+621,California,Crothall Healthcare - Lakewood Regional Medical Center,3700 E South Street  Lakewood CA 90712,39.0,2025-06-16,2025-07-27,Layoff Permanent,,,Los Angeles County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+622,California,Morrison Healthcare - Lakewood Regional Medical Center,3700 E South Street  Lakewood CA 90712,40.0,2025-06-16,2025-07-27,Layoff Permanent,,,Los Angeles County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+623,California,Morrison Healthcare - Placentia Linda Hospital,1301 N Rose Drive  Placentia CA 90712,21.0,2025-06-16,2025-07-27,Layoff Permanent,,,Los Angeles County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+624,California,Crothall Healthcare  - Los Alamitos Medical Center,3191 Katella Avenue  Los Alamitos CA 90720,41.0,2025-06-16,2025-07-27,Layoff Permanent,,,Orange County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+625,California,Morrison Healthcare - Los Alamitos Medical Center,3191 Katella Avenue  Los Alamitos CA 90720,32.0,2025-06-16,2025-07-27,Layoff Permanent,,,Orange County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+626,California,LPL Financial LLC,4707 Executive Dr.  San Diego CA 92121,70.0,2025-06-16,2025-08-21,Layoff Permanent,,,San Diego County,52 Finance and Insurance,,WARN,Finance & Insurance
+627,California,"Planned Parenthood Mar Monte, Inc.",1691 The Alameda  San Jose CA 95126,10.0,2025-06-16,2025-08-17,Layoff Permanent,,,Santa Clara County,62 Healthcare and Social Assistance,,WARN,Healthcare
+633,Illinois,OSF HealthCare Heart of Mary Medical Center,Urbana,51.0,2025-06-15,,Layoff,Permanent,No,Champaign,General Medical and Surgical Hospitals,,WARN,Other
+639,California,MemorialCare Long Beach Medical Center and Miller Children's and Women's Hospital,2801 Atlantic Avenue  Long Beach CA 90806,58.0,2025-06-15,2025-06-15,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+640,California,"CRST Expedited, Inc. dba CRST The Transportation Solution, Inc.",5350 Wilson St.  JURUPA VALLEY CA 92509,104.0,2025-06-15,2025-08-21,Layoff Permanent,,,Riverside County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+641,California,"CRST Expedited, Inc. dba CRST The Transportation Solution, Inc.",5350 Wilson St  JURUPA VALLEY CA 92509,4.0,2025-06-15,2025-09-16,Layoff Permanent,,,Riverside County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+646,Illinois,"Tyson Warehousing Services, LLC  Rochelle Distribution Center",Rochelle,259.0,2025-06-12,2025-08-14,Layoff,Permanent,No,Ogle,General Warehousing,affected workers will be offered employment with new company; no layoffs anticipated,WARN,Other
+650,Maryland,BioNTech Us Inc.,Gaithersburg,63.0,2025-06-12,2025-08-08,Mass Layoff - No Recall,,,,541714,"930 Clopper Road and 948 Clopper Road Gaithersburg, MD 20878",WARN,Professional Services
+652,Iowa,Collins Aerospace,Cedar Rapids,102.0,2025-06-11,2025-07-17,Mass Layoff,,,Lynn,Manufacturing,,WARN,Manufacturing
+654,Florida,Need it Now,Jupiter,103.0,2025-06-10,2025-08-08,Layoff,Permanent,,,Transportation and Warehousing,,WARN,Transportation & Warehousing
+660,Maryland,Leidos,Frederick,7.0,2025-06-10,2025-08-04,Mass Layoff - No Recall,,,,541715,"5202 Presidents Court, Suite 110 Frederick, MD 21703",WARN,Professional Services
+662,California,Corteva Agriscience,901 Loveridge Road  Pittsburg CA 94565,11.0,2025-06-10,2025-07-31,Layoff Permanent,,,Contra Costa County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+664,California,"Frito-Lay, Inc.",9535 Archibald Avenue  Rancho Cucamonga CA 91730,432.0,2025-06-10,2025-06-08,Layoff Permanent,,,San Bernardino County,31-33 Manufacturing,,WARN,Manufacturing
+665,California,"Gilead Sciences, Inc.",4010 Ocean Ranch Blvd.  Oceanside CA 92056,36.0,2025-06-10,2025-08-14,Layoff Permanent,,,San Diego County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+667,California,Renesas Electronics Corporation - San Jose Campus,6024 Silver Creek Valley Road  San Jose CA 95138,17.0,2025-06-10,2025-05-11,Layoff Permanent,,,Santa Clara County,31-33 Manufacturing,,WARN,Manufacturing
+668,California,Renesas Electronics Corporation - Milpitas Campus,1001 Murphy Ranch Road  Milpitas CA 95035,39.0,2025-06-10,2025-05-11,Layoff Permanent,,,Santa Clara County,31-33 Manufacturing,,WARN,Manufacturing
+671,Maryland,"Need It Now Delivers, LLC (NIND) “GEODIS”",Glen Burnie,72.0,2025-06-10,2025-08-08,Mass Layoff - No Recall,,,,492110,"7659 Solley Road Glen Burnie, MD 21060",WARN,Transportation & Warehousing
+680,California,Kaiser Foundation Hospitals,One Kaiser Plaza  Oakland CA 94612,1.0,2025-06-09,2025-06-08,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+681,California,Prothena Biosciences Inc,1800 Sierra Point Parkway  Brisbane CA 94005,91.0,2025-06-09,2025-07-31,Layoff Permanent,,,San Mateo County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+682,California,Boston Scientific Corporation,1213 Innsbruck Drive  Sunnyvale CA 94089,23.0,2025-06-09,2025-08-01,Layoff Permanent,,,Santa Clara County,31-33 Manufacturing,,WARN,Manufacturing
+686,Maryland,ADRA International,Silver Spring,35.0,2025-06-09,2025-08-15,Mass Layoff - No Recall,,,,624230,"12501 Old Columbia Pike Silver Spring, MD 20904",WARN,Healthcare
+703,California,Amtrak - Lancaster LCS,44812 North Sierra Hwy  Lancaster CA 93534,19.0,2025-06-05,2025-06-26,Layoff Not known at this time,,,Los Angeles County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+704,California,Amtrak - Los Angeles (LMK),800 N Alameda Street  Los Angeles CA 90012,86.0,2025-06-05,2025-06-26,Layoff Not known at this time,,,Los Angeles County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+705,California,Amtrak - Santa Fe Depot,2701 North Garey Avenue  Pomona CA 91767,5.0,2025-06-05,2025-06-26,Layoff Not known at this time,,,Los Angeles County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+706,California,Amtrak San Bernardino Downtown SNB,174 South E Street  San Bernardino CA 92410,99.0,2025-06-05,2025-06-26,Layoff Not known at this time,,,San Bernardino County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+707,California,Amtrak - Stuart Mesa Mechanical Facility (OSD),1 Coaster Way  Camp Pendleton North CA 92055,9.0,2025-06-05,2025-06-26,Layoff Not known at this time,,,San Diego County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+708,California,Amtrak - Moorpark,585 Moorpark Avenue  Moorpark CA 93201,9.0,2025-06-05,2025-06-26,Layoff Not known at this time,,,Ventura County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+710,Florida,"Lewis Tree Service, Inc.",Miami,110.0,2025-06-04,2025-07-19,Layoff,Permanent,,,Administrative and Support and Waste Management and Remediation Services,,WARN,Accommodation & Food Services
+713,Maryland,Maryland Coalition of Families,Columbia,35.0,2025-06-04,2025-06-29,Mass Layoff - No Recall,,,,624190,"8950 State Route 108, Suite 223 Columbia, MD 21045",WARN,Healthcare
+726,California,Harpoon Henry's Seafood Restaurant,34555 Golden Lantern  Dana Point CA 92629,159.0,2025-06-03,2025-08-09,Layoff Permanent,,,Orange County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+727,California,Mission Linen Supply,500 Alton Street  Chino CA 91710,82.0,2025-06-03,2025-08-01,Layoff Permanent,,,San Bernardino County,81 Other Services Except Public Administration,,WARN,Other Services
+735,Illinois,"Nordstrom Credit, Inc.",Multiple,7.0,2025-06-02,2025-08-15,Layoff,Permanent,No,"Lake, Cook, Will",Finance and Insurance,,WARN,Finance & Insurance
+741,Florida,Eckerd Connects,Saint Petersburg,47.0,2025-06-02,,Layoff,Permanent,,,Educational Services,due to closing of Pinellas Job Corps Center,WARN,Education Services
+744,California,Kaiser Foundation Hospitals - Berkeley,1795 Second Street  Berkeley CA 94710,4.0,2025-06-02,2025-06-01,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+745,California,Kaiser Foundation - Fremont,39400 Paseo Padre Pkwy.  Fremont CA 94538,1.0,2025-06-02,2025-06-01,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+746,California,Kaiser Foundation Hospitals - Oakland,One Kaiser Plaza  Oakland CA 94612,13.0,2025-06-02,2025-06-01,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+747,California,Kaiser Foundation Hospitals - Pleasanton,"460 Hacienda Dr. Bldg., A  Pleasanton CA 94588",20.0,2025-06-02,2025-06-01,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+748,California,Kaiser Foundation Hospitals - Harbor City,25825 Vermont Avenue  Harbor City CA 90710,1.0,2025-06-02,2025-06-01,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+749,California,Kaiser Foundation Hospitals - 74 N. Pasadena,74 N. Pasadena Avenue  Pasadena CA 91103,1.0,2025-06-02,2025-06-01,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+750,California,Kaiser Foundation Hospitals - 393 E. Walnut,393 E. Walnut Street  Pasadena CA 91188,2.0,2025-06-02,2025-06-01,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+751,California,Kaiser Foundation Hospitals - 75 Fair Oaks Ave.,75 N. Fair Oaks Avenue  Pasadena CA 91103,2.0,2025-06-02,2025-06-01,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+752,California,Kaiser Foundation Hospitals - 99 S Oakland Ave,99 S. Oakland Avenue  Pasadena CA 91101,5.0,2025-06-02,2025-06-01,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+753,California,Kaiser Foundation Hospitals - Yorba Linda,22550 Savi Ranch Pkwy  Yorba Linda CA 92887,1.0,2025-06-02,2025-06-01,Layoff Permanent,,,Orange County,62 Healthcare and Social Assistance,,WARN,Healthcare
+754,California,Kaiser Foundation Hospitals - Irvine,6640 Alton Pkwy  Irvine CA 92618,1.0,2025-06-02,2025-06-01,Layoff Permanent,,,Orange County,62 Healthcare and Social Assistance,,WARN,Healthcare
+755,California,Kaiser Foundation Hospitals - Roseville,1600 Eureka Road  Roseville CA 95661,1.0,2025-06-02,2025-06-01,Layoff Permanent,,,Placer County,62 Healthcare and Social Assistance,,WARN,Healthcare
+756,California,Kaiser Foundation Hospitals - San Diego,8954 Rio San Diego Dr.  San Diego CA 92108,1.0,2025-06-02,2025-06-01,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+757,California,Kaiser Foundation Hospitals - San Francisco,2425 Geary Blvd.  San Fancisco CA 94115,1.0,2025-06-02,2025-06-01,Layoff Permanent,,,San Francisco County,62 Healthcare and Social Assistance,,WARN,Healthcare
+758,California,Kaiser Foundation Hospitals - Vallejo,975 Sereno Dr.  Vallejo CA 94589,1.0,2025-06-02,2025-06-01,Layoff Permanent,,,Solano County,62 Healthcare and Social Assistance,,WARN,Healthcare
+761,California,GTM Wholesale Liquidators dba GTM Discount General Store - Santee Store,8967 Carlton Hills Blvd  Santee CA 92071,9.0,2025-06-02,2025-07-30,Layoff Permanent,,,San Diego County,44-45 Retail Trade,,WARN,Retail Trade
+762,California,"GTM Wholesale Liquidators, Inc. dba GTM Discount General Store - Chula Vista Store",1315 3rd Ave.  Chula Vista CA 91911,9.0,2025-06-02,2025-07-30,Layoff Permanent,,,San Diego County,44-45 Retail Trade,,WARN,Retail Trade
+763,California,GTM Wholesale Liquidators DBA  Discount General Store - Warehouse,7615 Siempre Viva Road  San Diego CA 92154,18.0,2025-06-02,2025-07-30,Layoff Permanent,,,San Diego County,44-45 Retail Trade,,WARN,Retail Trade
+776,Florida,Exceed LLC,Saint Petersburg,119.0,2025-06-01,,Layoff,Permanent,,,"Professional, Scientific, and Technical Services",due to closing of Pinellas Job Corps Center,WARN,Accommodation & Food Services
+781,Maryland,"DAI Global, LLC",Bethesda,62.0,2025-06-01,2025-07-31,Mass Layoff - No Recall,,,,541611,"7600 Wisconsin Avenue, Suite 200 Bethesda, MD 20814",WARN,Professional Services
+782,Maryland,American Institutes of Research (AIR),Rockville,4.0,2025-06-01,2025-07-06,Mass Layoff - No Recall,,,,541720,"6003 Executive Blvd, 3rd Floor Rockville, MD 20852",WARN,Professional Services
+788,California,Menzies Aviation,1 World Way  Los Angeles CA 90045,46.0,2025-06-01,2025-07-30,Layoff Not known at this time,,,Los Angeles County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+789,California,Microsoft - 1045,1045 La Avenida  Mountain View CA 94043,7.0,2025-06-01,2025-07-31,Layoff Permanent,,,Santa Clara County,51 Information,,WARN,Information
+790,California,Microsoft - 445 & 455,445 & 455 North Mary Avenue  Sunnyvale CA 94085,1.0,2025-06-01,2025-07-31,Layoff Permanent,,,Santa Clara County,51 Information,,WARN,Information
+791,California,Cruise LLC,1201 Bryant Street  San Francisco CA 94103,1.0,2025-06-01,2025-05-29,Layoff Permanent,,,San Francisco County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+820,Mississippi,iQor Holding US LCC,Meridian,50.0,2025-05-30,2025-06-22,Layoff,,,Lauderdale,334413 – Semiconductor and Related Device Manufacturing,WARN - nonrenewal of contract,WARN,Manufacturing
+823,California,Memorial Care Long Beach Medical Center and Miller Children's and Women's Hospital,2801 Atlantic Avenue  Long Beach CA 90806,22.0,2025-05-29,2025-05-29,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+825,California,Walmart,850 Cherry Avenue  San Bruno CA 94066,106.0,2025-05-29,2025-08-21,Layoff Permanent,,,San Mateo County,44-45 Retail Trade,,WARN,Retail Trade
+833,Illinois,"Endries International, Inc.",Sycamore,16.0,2025-05-28,2025-07-30,Layoff,Permanent,No,DeKalb,Wholesale - Trade Agents and Brokers,,WARN,Retail Trade
+836,California,Google - Borregas,1265 Borregas Avenue  Sunnyvale CA 94089,11.0,2025-05-28,2025-07-05,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+837,California,Google - Bordeaux,1190 Bordeaux Drive  Sunnyvale CA 94089,33.0,2025-05-28,2025-07-05,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+838,California,Google - Moffett,237 Moffett Park Drive  Sunnyvale CA 94089,8.0,2025-05-28,2025-07-05,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+845,California,LinkedIn Corporation,222 Second Street  San Francisco CA 94105,60.0,2025-05-27,2025-05-14,Layoff Permanent,,,San Francisco County,51 Information,,WARN,Information
+848,California,"Liberty Residential Services, Inc. (2915)",2915 Duck Pond Lane  Ramona CA 92065,35.0,2025-05-27,2025-07-30,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+849,California,"Liberty Residential Services, Inc. (1404)",1404 Ash Street  Ramona CA 92065,31.0,2025-05-27,2025-07-30,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+850,California,"Liberty Residential Services, Inc.","12700 Stowe Drive, Suite 110  Poway CA 92064",6.0,2025-05-27,2025-07-30,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+863,Iowa,"Fidelity & Guaranty Life Business Services, Inc",Des Moines,103.0,2025-05-26,2025-06-01,Mass Layoff,,,Polk,Management of Companies and Enterprises,,WARN,Other
+865,California,Wells Fargo,1755 Grant Street  Concord CA 94520,1.0,2025-05-26,2025-05-26,Layoff Permanent,,,Contra Costa County,52 Finance and Insurance,,WARN,Finance & Insurance
+870,California,Advanced Pressure Technology,687 Technology Way  Napa CA 94558,89.0,2025-05-22,2025-07-25,Layoff Permanent,,,Napa County,31-33 Manufacturing,,WARN,Manufacturing
+874,California,AAPC Lounge Services,380 World Way  Los Angeles CA 90045,130.0,2025-05-21,2025-07-20,Layoff Permanent,,,Los Angeles County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+875,California,NBCUniversal Media (Bldg. 1440),"100 Universal City Plaza, Bldg. 1440  Universal City CA 91608",13.0,2025-05-21,2025-06-26,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+876,California,"NBCUniversal Media (Bldgs. 1280, 1320, 1360, and 4250)","100 Universal City Plaza, Bldgs. 1280, 1320, 1360, and 4250  Universal City CA 91608",41.0,2025-05-21,2025-06-26,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+877,California,Six Flags Entertainment Corporation,26101 Magic Mountain Parkway  Valencia CA 91355,56.0,2025-05-21,2025-07-20,Layoff Permanent,,,Los Angeles County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+878,California,Hewlett Packard Enterprise Company (HPE),6280 America Center Drive  San Jose CA 95002,61.0,2025-05-21,2025-05-01,Layoff Permanent,,,Santa Clara County,31-33 Manufacturing,,WARN,Manufacturing
+905,California,Kaiser Foundation Hospitals,One Kaiser Plaza  Oakland CA 94612,2.0,2025-05-20,2025-05-18,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+907,California,Eikon Therapeutics Inc.,230 Harriet Tubman Way  Millbrae CA 94030,55.0,2025-05-20,2025-07-20,Layoff Permanent,,,San Mateo County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+908,California,Allergan Aesthetics,2525 Dupont Drive  Irvine CA 92612,202.0,2025-05-20,2025-07-21,Layoff Permanent,,,Orange County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+913,California,"PMAB-5, LLC",101 Hillsdale Shopping Ctr  San Mateo CA 94403,63.0,2025-05-19,2025-07-17,Layoff Permanent,,,San Mateo County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+915,California,Chegg,3990 Freedom Circle  San Jose CA 95134,88.0,2025-05-19,2025-05-14,Layoff Permanent,,,Santa Clara County,81 Other Services Except Public Administration,,WARN,Other Services
+922,Iowa,Chevron U.S.A. Inc,Ames,70.0,2025-05-18,2025-06-17,Mass Layoff,,,Story,Management of Companies and Enterprises,,WARN,Other
+936,California,"Niantic, Inc.","1 Ferry Building, #200  San Francisco CA 94111",5.0,2025-05-15,2025-05-18,Layoff Permanent,,,San Francisco County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+946,California,Amazon (SJC11 Facility),1100 Enterprise Way  Sunnyvale CA 94089,33.0,2025-05-14,2025-07-06,Layoff Permanent,,,Santa Clara County,44-45 Retail Trade,,WARN,Retail Trade
+947,California,Amazon (SJC14 Facility),905 11th Avenue  Sunnyvale CA 94089,6.0,2025-05-14,2025-07-06,Layoff Permanent,,,Santa Clara County,44-45 Retail Trade,,WARN,Retail Trade
+948,California,Amazon (SJC31 Facility),1100 Discovery Way  Sunnyvale CA 94089,5.0,2025-05-14,2025-07-06,Layoff Permanent,,,Santa Clara County,44-45 Retail Trade,,WARN,Retail Trade
+949,California,Amazon (SJC32 Facility),1140 Enterprise Way  Sunnyvale CA 94089,8.0,2025-05-14,2025-07-06,Layoff Permanent,,,Santa Clara County,44-45 Retail Trade,,WARN,Retail Trade
+950,California,UPS,1380 Shore Street  West Sacramento CA 95691,355.0,2025-05-14,2025-07-13,Layoff Permanent,,,Yolo County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+951,Iowa,Winnebago Industries,Forest City,128.0,2025-05-14,2025-06-12,Mass Layoff,,,Winnebago,Manufacturing,,WARN,Manufacturing
+962,Florida,Technology Partners,Miami Gardens,58.0,2025-05-13,2025-07-13,Layoff,Permanent,,,"Professional, Scientific, and Technical Services",,WARN,Accommodation & Food Services
+970,California,Wells Fargo - 1655,1655 Grant Street  Concord CA 94520,4.0,2025-05-13,2025-05-12,Layoff Permanent,,,Contra Costa County,52 Finance and Insurance,,WARN,Finance & Insurance
+971,California,Wells Fargo -1755,1755 Grant Street  Concord CA 94520,6.0,2025-05-13,2025-05-12,Layoff Permanent,,,Contra Costa County,52 Finance and Insurance,,WARN,Finance & Insurance
+972,California,Microsoft - 770,770 E Middlefield  Mountain View CA 94043,1.0,2025-05-13,2025-07-11,Layoff Permanent,,,Santa Clara County,51 Information,,WARN,Information
+973,California,Microsoft - 3201,3201 Scott Blvd  Santa Clara CA 95054,3.0,2025-05-13,2025-07-11,Layoff Permanent,,,Santa Clara County,51 Information,,WARN,Information
+974,California,Microsoft - 1045,1045 La Avenida  Mountain View CA 94043,82.0,2025-05-13,2025-07-11,Layoff Permanent,,,Santa Clara County,51 Information,,WARN,Information
+976,California,"Lakeshore Learning Materials, LLC - 2695",2695 E. Dominguez Street  Carson CA 90895,50.0,2025-05-13,2025-07-12,Layoff Permanent,,,Los Angeles County,44-45 Retail Trade,,WARN,Retail Trade
+977,California,"Lakeshore Leaning Materials, LLC - 2649",2649 E. Dominguez Street  Carson CA 90910,10.0,2025-05-13,2025-07-12,Layoff Permanent,,,Los Angeles County,44-45 Retail Trade,,WARN,Retail Trade
+978,California,"Lakeshore Learning Materials, LLC - 20974",20974 S. Santa Fe Ave.  Carson CA 90810,21.0,2025-05-13,2025-07-12,Layoff Permanent,,,Los Angeles County,44-45 Retail Trade,,WARN,Retail Trade
+979,California,Lakeshore Learning Materials - 2915,2915 E. Dominguez St.  Carson CA 90810,10.0,2025-05-13,2025-07-12,Layoff Permanent,,,Los Angeles County,44-45 Retail Trade,,WARN,Retail Trade
+980,California,"Lakeshore Learning Materials, LLC - 2161",2161 E. Dominguez St.  Carson CA 90810,109.0,2025-05-13,2025-07-11,Layoff Permanent,,,Los Angeles County,44-45 Retail Trade,,WARN,Retail Trade
+993,Illinois,"LanzaTech Global, Inc.",Skokie,44.0,2025-05-11,2025-05-31,Possible Layoff,Permanent,No,Cook,Professional and Technical Services,,WARN,Professional Services
+995,Florida,"GroundGame Health, Inc.",Tampa,97.0,2025-05-11,2025-07-10,Layoff,Permanent,,,Health Care and Social Assistance,,WARN,Healthcare
+996,Florida,"HSNi, LLC and HSN, Inc.",Saint Petersburg,373.0,2025-05-11,,Layoff,Permanent,,,Other Services (except Public Administration),,WARN,Other Services
+999,California,Kaiser Foundation Hospitals,325 Harbour Way  Richmond CA 94801,1.0,2025-05-11,2025-05-11,Layoff Permanent,,,Contra Costa County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1000,California,Kaiser Foundation Hospitals (1450),"1450 Maria Ln., Ste. 280, 310 and 350  Walnut Creek CA 94596",1.0,2025-05-11,2025-05-11,Layoff Permanent,,,Contra Costa County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1001,California,Kaiser Foundation Hospitals (1460),"1460 Maria Ln., Ste. 250,265,270,330 and 340  Walnut Creek CA 94596",1.0,2025-05-11,2025-05-11,Layoff Permanent,,,Contra Costa County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1002,California,First Student,11233 San Fernando Road  San Fernando CA 91340,88.0,2025-05-11,2025-08-07,Layoff Permanent,,,Los Angeles County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1007,California,Colosseum Athletics,2400 S. Wilmington Avenue  Compton CA 90220,35.0,2025-05-08,2025-07-08,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1008,California,"Insitro, Inc.",279 E Grand Ave. Ste 200  South San Francisco CA 94080,63.0,2025-05-08,2025-03-08,Layoff Permanent,,,San Mateo County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1009,California,RTX,El Segundo-So. Campus Bldg E01 2000 2000 East El Segundo Boulevard Building E01 El Segundo CA 90245,1.0,2025-05-08,2025-07-29,Layoff Permanent,,,Los Angeles County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1013,California,"10x Genomics, Inc. (5500)",5500 Stoneridge Mall Road  Pleasanton CA 94588,3.0,2025-05-07,2025-07-06,Layoff Permanent,,,Alameda County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1014,California,"10x Genomics, Inc. (6210)",6210 Stoneridge Mall Road  Pleasanton CA 94588,2.0,2025-05-07,2025-07-06,Layoff Permanent,,,Alameda County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1015,California,"10x Genomics, Inc. (6230)",6230 Stoneridge Mall Road  Pleasanton CA 94588,88.0,2025-05-07,2025-07-06,Layoff Permanent,,,Alameda County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1016,California,Chevron (100),100 Chevron Way  Richmond CA 94801,18.0,2025-05-07,2025-06-30,Layoff Permanent,,,Contra Costa County,21 Mining Quarrying Oil and Gas Exraction,,WARN,"Mining, Quarrying, & Oil/Gas Extraction"
+1017,California,Chevron (850),850 Chevron Way  Richmond CA 94801,13.0,2025-05-07,2025-06-30,Layoff Permanent,,,Contra Costa County,21 Mining Quarrying Oil and Gas Exraction,,WARN,"Mining, Quarrying, & Oil/Gas Extraction"
+1018,California,Chevron,9525 Camino Media  Bakersfield CA 93311,14.0,2025-05-07,2025-06-30,Layoff Permanent,,,Kern County,21 Mining Quarrying Oil and Gas Exraction,,WARN,"Mining, Quarrying, & Oil/Gas Extraction"
+1020,California,"Thrifty Payless, Inc. (Rite Aide)",2801 W. Avenue H.  Lancaster CA 93536,297.0,2025-05-07,2025-06-03,Layoff Permanent,,,Los Angeles County,44-45 Retail Trade,,WARN,Retail Trade
+1025,Maryland,"Laulima Government Solutions, LLC",Frederick,61.0,2025-05-07,2025-04-29,Mass Layoff due to a Temporary Stop Work Order,,,,541714,"NIAID IRF NIH Facility on Ft. Detrick Campus 8200 Research Plaza Frederick, MD 21702",WARN,Professional Services
+1036,California,Surfair Mobility,5080 Spectrum Drive #250 West  Addison TX 75001,1.0,2025-05-06,2025-07-05,Layoff Permanent,,,Dallas County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1043,California,Elijah House Foundation,2060 Park Avenue  Oroville CA 95966,15.0,2025-05-05,2025-06-29,Layoff Permanent,,,Butte County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1044,California,Anthony International,12391 Montero Avenue  Sylmar CA 91342,325.0,2025-05-05,2025-07-06,Layoff Temporary,,,Los Angeles County,31-33 Manufacturing,,WARN,Manufacturing
+1049,Illinois,First Student - Tolono IL School Dist.,Tolono,28.0,2025-05-04,2025-06-29,Layoff,Permanent,No,Champaign,Transportation - School and Employess Bus,,WARN,Other
+1051,Kentucky,"Dakkota Integrated Systems, LLC",,75.0,2025-05-04,2025-06-30,Layoff,,,Jefferson,49311,,WARN,Transportation & Warehousing
+1052,Kentucky,"Dakkota Integrated Systems, Inc",Louisville,1.0,2025-05-04,2025-06-30,Layoff,,,Jefferson,49311,,WARN,Transportation & Warehousing
+1053,Kentucky,"Dakkota Related Systems, Inc",Louisville,11.0,2025-05-04,2025-06-30,Layoff,,,Jefferson,49311,,WARN,Transportation & Warehousing
+1054,Kentucky,"Dakkota Integrated Systems, Inc",Louisville,41.0,2025-05-04,2025-07-31,Layoff,,,Jefferson,49311,,WARN,Transportation & Warehousing
+1057,Missouri,First Student,"Holden, St. Louis",257.0,2025-05-04,2025-06-29,Layoff,,,Jackson,Transportation,"218 affected in St. Louis, 39 affected in Holden",WARN,Transportation & Warehousing
+1059,California,"tkMomentum, Inc.","471 Sutton Way, Suite 208  Grass Valley CA 95945",4.0,2025-05-04,2025-06-29,Layoff Permanent,,,Nevada County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1060,California,tkMomentum Inc. (251 Auburn),"251 Auburn Ravine Road, Suite 205  Auburn CA 95603",16.0,2025-05-04,2025-06-29,Layoff Permanent,,,Placer County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1061,California,Pliant Therapeutics,331 Oyster Point Blvd  South San Francisco CA 94080,69.0,2025-05-04,2025-04-30,Layoff Permanent,,,San Mateo County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1068,Illinois,Bristol Myers Squibb,Libertyville,133.0,2025-05-01,,Layoff,Permanent,No,Lake,Professional & Technical Services - Biotechnology Research & Development,,WARN,Accommodation & Food Services
+1069,Illinois,Cleveland-Cliffs Riverdale LLC,Riverdale,281.0,2025-05-01,2025-06-29,Layoff,Temporary,Yes,Cook,Manufacturing - Iron and Steel Mills,,WARN,Manufacturing
+1072,Florida,"Institute for Intergovernmental Research, Inc.",Tallahassee,200.0,2025-05-01,2025-04-22,Layoff,,,,"Professional, Scientific, and Technical Services",,WARN,Accommodation & Food Services
+1081,California,MemorialCare Long Beach Medical Center and Women's Hospital Long Beach,2801 Atlantic Avenue  Long Beach CA 90806,115.0,2025-05-01,2025-06-15,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1082,California,Atria Wealth Solutions,"10150 Meanley Drive, First Floor  San Diego CA 92131",82.0,2025-05-01,2025-07-03,Layoff Permanent,,,San Diego County,52 Finance and Insurance,,WARN,Finance & Insurance
+1083,California,"Center Point, Inc. (4001)",4001 Highway 104  Ione CA 95640,18.0,2025-05-01,2025-06-29,Layoff Permanent,,,Amador County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1084,California,"Center Point, Inc. (5905)",5905 Lake Earl Drive  Crescent City CA 95531,12.0,2025-05-01,2025-06-29,Layoff Permanent,,,Del Norte County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1085,California,"Center Point, Inc. (475-750)",475-750 Rice Canyon Road  Susanville CA 96127,20.0,2025-05-01,2025-06-29,Layoff Permanent,,,Lassen County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1086,California,"Center Point, Inc. (San Quentin)",100 Main Street  San Quentin CA 94964,14.0,2025-05-01,2025-06-29,Layoff Permanent,,,Marin County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1087,California,"Center Point, Inc. 100 Prison Rd.",100 Prison Road  Represa CA 95671,17.0,2025-05-01,2025-06-29,Layoff Permanent,,,Sacramento County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1088,California,"Center Point, Inc. (300 Prison)",300 Prison Road  Represa CA 95671,20.0,2025-05-01,2025-06-29,Layoff Permanent,,,Sacramento County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1089,California,"Center Point, Inc. (7707 Austin)",7707 Austin Road  Stockton CA 95215,20.0,2025-05-01,2025-06-29,Layoff Permanent,,,San Joaquin County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1090,California,"Center Point, Inc. (2100)",2100 Peabody Road  Vacaville CA 95696,22.0,2025-05-01,2025-06-29,Layoff Permanent,,,Solano County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1091,California,"Center Point, Inc. (1600)",1600 California Drive  Vacaville CA 95696,15.0,2025-05-01,2025-06-29,Layoff Permanent,,,Sonoma County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1092,California,"Center Point, Inc. (5100)",5100 O'Byrnes Ferry Road  Jamestown CA 95327,17.0,2025-05-01,2025-06-29,Layoff Permanent,,,Tuolumne County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1143,California,4670 Unitek Learning Education Group Corp.,4670 Auto Mall Pkwy  Fremont CA 94538,6.0,2025-04-30,2025-07-02,Layoff Permanent,,,Alameda County,61 Educational Services,,WARN,Education Services
+1144,California,21615 Unitek Learning Education Group Corp.,21615 Hesperian Blvd  Hayward CA 94541,2.0,2025-04-30,2025-07-02,Layoff Permanent,,,Alameda County,61 Educational Services,,WARN,Education Services
+1145,California,1401 Unitek Learning Education Group Corp.,1401 Willow Pass Rd 1st Floor  Concord CA 94520,4.0,2025-04-30,2025-07-02,Layoff Permanent,,,Contra Costa County,61 Educational Services,,WARN,Education Services
+1146,California,333 Unitek Learning Education Group Corp.,333 Palmer Dr Ste. 200  Bakersfield CA 93309,4.0,2025-04-30,2025-07-02,Layoff Permanent,,,Kern County,61 Educational Services,,WARN,Education Services
+1147,California,HUB Unitek Learning Education Group Corp.,1401 Dove St #210  Newport Beach CA 92660,29.0,2025-04-30,2025-07-02,Layoff Permanent,,,Orange County,61 Educational Services,,WARN,Education Services
+1148,California,4330 Unitek Learning Education Group Corp.,4330 Watt Ave. 4th Floor  Sacramento CA 95821,3.0,2025-04-30,2025-07-02,Layoff Permanent,,,Sacramento County,61 Educational Services,,WARN,Education Services
+1149,California,257 Unitek Learning Education Group Corp.,257 Longford Dr Suite 5  South San Francisco CA 92660,1.0,2025-04-30,2025-07-02,Layoff Permanent,,,San Mateo County,61 Educational Services,,WARN,Education Services
+1150,California,6800 Unitek Learning Education Group Corp.,6800 Santa Teresa Blvd #200  San Jose CA 95119,2.0,2025-04-30,2025-07-02,Layoff Permanent,,,Santa Clara County,61 Educational Services,,WARN,Education Services
+1152,California,"NGM Biopharmaceuticals, Inc.",333 Oyster Point Blvd.  South San Francisco CA 94080,85.0,2025-04-30,2025-06-29,Layoff Permanent,,,San Mateo County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1155,California,Urban Alchemy,255 Golden Gate Avenue  San Francisco CA 94102,57.0,2025-04-30,2025-06-29,Layoff Permanent,,,San Francisco County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1156,California,Pride Industries,1600 California Drive  Vacaville CA 95687,58.0,2025-04-30,2025-06-29,Layoff Not known at this time,,,Solano County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1158,California,Community Action Marin,7665 Redwood Blvd  Novato CA 94945,43.0,2025-04-30,2025-06-29,Layoff Permanent,,,Marin County,81 Other Services Except Public Administration,,WARN,Other Services
+1163,Illinois,Amsted Rail Company,Granite City,74.0,2025-04-29,2025-07-03,Layoff,Permanent,Yes,Madison,Manufacturing - Steel Foundries,,WARN,Manufacturing
+1168,Florida,ABM Industries,Orlando,175.0,2025-04-29,2025-06-30,Layoff,Permanent,UWSU Local 74,,Administrative and Support and Waste Management and Remediation Services,,WARN,Accommodation & Food Services
+1181,California,Van's Corporate Headquarters,1588 S. Coast Drive  Costa Mesa CA 92626,82.0,2025-04-29,2025-06-28,Layoff Permanent,,,Orange County,31-33 Manufacturing,,WARN,Manufacturing
+1182,California,"GXO Logistics Supply Chain, Inc.",2163 S. Riverside Avenue  Colton CA 92324,41.0,2025-04-29,2025-04-29,Layoff Permanent,,,San Bernardino County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1183,Maryland,Leidos,Gaithersburg,19.0,2025-04-29,2025-06-29,Mass Layoff - No Recall,,,,522320,"9737 Washingtonian Boulevard Gaithersburg, MD 20878",WARN,Finance & Insurance
+1184,Mississippi,SSC Servcies for Education at JSU,Jackson,41.0,2025-04-28,2025-06-29,Layoff,,,Hinds,561720 – Janitorial Services,Non-WARN - non-renewal of company's service contract,WARN,Other Services
+1186,Illinois,Oak View Group - at McCormick Place,Chicago,203.0,2025-04-28,2025-06-29,Layoff,Permanent,Yes,Cook,"Arts, Entertainment, and Recreation",,WARN,"Arts, Entertainment & Recreation"
+1187,Florida,Thermo Fisher Scientific,Orlando,59.0,2025-04-28,,Layoff,Permanent,,,Health Care and Social Assistance,,WARN,Healthcare
+1194,California,MV Transportation - 3990,3990 Zanker Road Building L  San Jose CA 95134,37.0,2025-04-28,2025-06-29,Layoff Permanent,,,Santa Clara County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1195,California,MV Transportation - 2240,2240 Tully Road  San Jose CA 95122,197.0,2025-04-28,2025-06-29,Layoff Permanent,,,Santa Clara County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1196,California,MV Transportation - 13550,13550 Diessner Avenue  San Martin CA 95046,6.0,2025-04-28,2025-06-29,Layoff Permanent,,,Santa Clara County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1197,California,"NetApp, Inc.",3060 Olsen Drive  San Jose CA 95128,56.0,2025-04-28,2025-06-27,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1199,California,Kaiser Foundation Hospitals 1600,1600 Eureka Rd.  Roseville CA 95661,1.0,2025-04-28,2025-06-27,Layoff Permanent,,,Placer County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1200,California,Kaiser Foundation Hospitals 1660,1660 Eureka Rd.  Roseville CA 95661,5.0,2025-04-28,2025-06-27,Layoff Permanent,,,Placer County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1201,California,Kaiser Foundation Hospitals 2025,2025 Morse Ave.  Sacramento CA 95825,1.0,2025-04-28,2025-06-27,Layoff Permanent,,,Sacramento County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1202,California,Kaiser Foundation Hospitals 401,401 Bicentennial Wy.  Santa Rosa CA 95403,1.0,2025-04-28,2025-06-27,Layoff Permanent,,,Sonoma County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1205,Florida,Cano Health LLC,Clermont,11.0,2025-04-27,2025-06-29,Layoff,Permanent,,,Health Care and Social Assistance,,WARN,Healthcare
+1206,Florida,Cano Health LLC Steven's Plantation,Saint Cloud,27.0,2025-04-27,2025-06-29,Layoff,Permanent,,,Health Care and Social Assistance,,WARN,Healthcare
+1208,Missouri,"Accelerate 360 Distribution, LLC",,22.0,2025-04-27,2025-06-27,Layoff,,,,Logistics,,WARN,Other
+1210,California,MV Transportation 4512,4512 Joe Lloyd Way  Seaside CA 93955,19.0,2025-04-27,2025-06-29,Layoff Permanent,,,Monterey County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1211,California,MV Transportation 4499,4499 Joe Lloyd Way  Seaside CA 93955,81.0,2025-04-27,2025-06-29,Layoff Permanent,,,Monterey County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1213,California,Cardinal,1800 S. Wineville Ave  Ontario CA 91761,45.0,2025-04-27,2025-06-27,Layoff Permanent,,,San Bernardino County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1215,Florida,Center for Family & Child Enrichment,Miami Gardens,106.0,2025-04-26,2025-06-29,Layoff,Permanent,,,Health Care and Social Assistance,,WARN,Healthcare
+1225,Iowa,"Accelerate360 Distribution, LLC - Dakota Merchandising Work",Lincoln,35.0,2025-04-24,2025-06-27,Mass Layoff,,,Sioux Falls,Administrative and Support and Waste Management and Remediation Services,,WARN,Accommodation & Food Services
+1227,California,The Model Z Modular LLC,740 E 111TH PL.  Los Angeles CA 90059,102.0,2025-04-24,2025-06-26,Layoff Permanent,,,Los Angeles County,23 Construction,,WARN,Construction
+1228,California,PULAU Corporation - 1308,"Building 1308, 2nd Street  Fort Irwin CA 92310",1.0,2025-04-24,2025-06-29,Layoff Permanent,,,San Bernardino County,81 Other Services Except Public Administration,,WARN,Other Services
+1229,California,PULAU Corporation - 650A,"Building 650A, 5th Street  Fort Irwin CA 92310",17.0,2025-04-24,2025-06-29,Layoff Permanent,,,San Bernardino County,81 Other Services Except Public Administration,,WARN,Other Services
+1230,California,PULAU Corporation - 820,"Building 820, 5th Street  Fort Irwin CA 92310",25.0,2025-04-24,2025-06-29,Layoff Permanent,,,San Bernardino County,81 Other Services Except Public Administration,,WARN,Other Services
+1231,California,PULAU Corporation - 6222,Building 6222 Barstow Road  Fort Irwin CA 92310,8.0,2025-04-24,2025-06-29,Layoff Permanent,,,San Bernardino County,81 Other Services Except Public Administration,,WARN,Other Services
+1232,California,PULAU Corporation - GMDT,GMDT on Avenue B  Fort Irwin CA 92310,3.0,2025-04-24,2025-06-29,Layoff Permanent,,,San Bernardino County,81 Other Services Except Public Administration,,WARN,Other Services
+1233,California,PULAU Corporation - 827,Building 827 South Loop Road  Fort Irwin CA 92310,43.0,2025-04-24,2025-06-29,Layoff Permanent,,,San Bernardino County,81 Other Services Except Public Administration,,WARN,Other Services
+1234,California,PULAU Corporation - 863,Building 863 Depot Road  Fort Irwin CA 92310,4.0,2025-04-24,2025-06-29,Layoff Permanent,,,San Bernardino County,81 Other Services Except Public Administration,,WARN,Other Services
+1235,California,PULAU Corporation - 891,Building 891 5th Street  Fort Irwin CA 92310,32.0,2025-04-24,2025-06-29,Layoff Permanent,,,San Bernardino County,81 Other Services Except Public Administration,,WARN,Other Services
+1237,Maryland,Leidos Biomedical Research,Frederick,23.0,2025-04-24,2025-04-23,Mass Layoff - No Recall,,,,541715,"8560 Progress Drive Frederick, MD 21702",WARN,Professional Services
+1238,Florida,"Tampa Sportservice, Inc.",Tampa,580.0,2025-04-24,2025-06-29,Layoff,Permanent,,,Accommodation and Food Services,,WARN,Accommodation & Food Services
+1251,California,Raytheon,2000 E El Segundo Blvd  El Segundo CA 90245,97.0,2025-04-23,2025-06-23,Layoff Permanent,,,Los Angeles County,31-33 Manufacturing,,WARN,Manufacturing
+1255,Florida,"Amerant Mortgage, LLC",Lakeland,58.0,2025-04-23,,Layoff,Permanent,,,Finance and Insurance,,WARN,Finance & Insurance
+1266,California,Kaiser Foundation Hospitals,One Kaiser Plaza  Oakland CA 94612,14.0,2025-04-22,2025-04-20,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1268,California,"TransitAmerica Services, Inc.","9130 Anaheim Place, Suite 230  Rancho Cucamonga CA 91730",17.0,2025-04-22,2025-06-29,Layoff Permanent,,,San Bernardino County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1269,California,RTX,2022 East El Segundo Boulevard  El Segundo CA 90245,1.0,2025-04-22,2025-06-19,Layoff Permanent,,,Los Angeles County,31-33 Manufacturing,,WARN,Manufacturing
+1280,California,Blue Shield of California,601 12th St  Oakland CA 94607,24.0,2025-04-21,2025-04-30,Layoff Permanent,,,Alameda County,52 Finance and Insurance,,WARN,Finance & Insurance
+1281,California,SambaNova Systems,2200 Geng Road  Palo Alto CA 94303,77.0,2025-04-21,2025-04-21,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1282,California,YMCA of San Diego County,3708 Ruffin Road  San Diego CA 92123,27.0,2025-04-21,2025-06-22,Layoff Permanent,,,San Diego County,81 Other Services Except Public Administration,,WARN,Other Services
+1283,California,"Bronco Wine Company, Bivio Transport and Logistics Company, LLC an WC Ag Services, Inc.",6342 Bysrum Rd.  Ceres CA 95307,146.0,2025-04-21,2025-06-15,Layoff Permanent,,,Stanislaus County,31-33 Manufacturing,,WARN,Manufacturing
+1284,California,"Barrel Ten Quarter Circle, Inc.",33 Harlow Ct.  Napa CA 94558,8.0,2025-04-21,2025-06-15,Layoff Permanent,,,Napa County,31-33 Manufacturing,,WARN,Manufacturing
+1300,California,SSP America,6900 Airport Blvd.  Sacramento CA 95837,105.0,2025-04-17,2025-06-16,Layoff Permanent,,,Sacramento County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+1304,California,"Illumina, Inc. Worldwide Headquarters",5200 Illumina Way  San Diego CA 92122,172.0,2025-04-16,2025-06-15,Layoff Permanent,,,San Diego County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1320,Maryland,Peraton,Princess Anne,49.0,2025-04-15,2025-04-29,Mass Layoff - No Recall,,,,518210,"30899 Park Drive Princess Anne, MD 21853",WARN,Information
+1324,Florida,"Jones Lang LaSalle Americas, Inc. (JLL)",Orlando,86.0,2025-04-14,2025-06-13,Layoff,Permanent,,,Real Estate and Rental and Leasing,due to change in Amazon's staffing contractor,WARN,Other
+1328,Iowa,"BFHO, Inc.",Cedar Rapids,32.0,2025-04-14,2025-05-14,Mass Layoff,,,Linn,Retail Trade,,WARN,Retail Trade
+1330,California,Kaiser Foundation Hospitals,1438 Webster Street  Oakland CA 94612,11.0,2025-04-14,2025-04-13,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1331,California,"Jones Lang LaSalle Americas, Inc.",3575 S Orange Avenue  Fresno CA 93725,87.0,2025-04-14,2025-06-13,Layoff Permanent,,,Fresno County,53 Real Estate and Rental Leasing,,WARN,Other
+1332,California,MV Transportation,305 Via Del Norte  Oceanside CA 92058,463.0,2025-04-14,2025-06-16,Layoff Permanent,,,San Diego County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1333,California,Jones Lang LaSalle Americas Inc.,3923 B Street  Stockton CA 95206,70.0,2025-04-14,2025-06-13,Layoff Permanent,,,San Joaquin County,53 Real Estate and Rental Leasing,,WARN,Other
+1334,Maryland,Axient LLC,Greenbelt,47.0,2025-04-14,2025-05-30,Mass Layoff - No Recall,,,,541715,"880 Greenbelt Road Greenbelt, MD 20771",WARN,Professional Services
+1335,Illinois,Cardinal Logistics Management Corporation,Naperville,43.0,2025-04-13,,Layoff,Permanent,Yes,DuPage,Transportation and Warehousing,,WARN,Transportation & Warehousing
+1336,Illinois,"United Facilities, Inc.",Galesburg,62.0,2025-04-13,,Layoff,Permanent,Yes,Knox,Transportation and Warehousing,,WARN,Transportation & Warehousing
+1339,California,"Confluent Medical Technologies, Inc.",47533 Westinghouse Drive  Fremont CA 94539,102.0,2025-04-13,2025-06-01,Layoff Permanent,,,Alameda County,31-33 Manufacturing,,WARN,Manufacturing
+1344,California,LEGOLAND California Resort,1 LEGOLAND Drive  Carlsbad CA 92008,2.0,2025-04-10,2025-06-09,Layoff Permanent,,,San Diego County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+1345,Iowa,RTX,Cedar Rapids,4.0,2025-04-09,2025-05-14,Mass Layoff,,,Linn,"Professional, Scientific, and Technical Services",,WARN,Accommodation & Food Services
+1347,California,"Pacific Biosciences of California, Inc.",1305 O'Brien Drive  Menlo Park CA 94025,70.0,2025-04-09,2025-06-07,Layoff Permanent,,,San Mateo County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1348,California,"Right At School, LLC",253 Martens Avenue Amy Imai Elementary Mountain View CA 94040,7.0,2025-04-09,2025-06-08,Layoff Permanent,,,Santa Clara County,61 Educational Services,,WARN,Education Services
+1349,California,"Right At School, LLC",1400 Montecito Avenue Mountain View Whisman District Mountain View CA 94043,1.0,2025-04-09,2025-06-17,Layoff Permanent,,,Santa Clara County,61 Educational Services,,WARN,Education Services
+1350,California,"Right At School, LLC",250 Roswell Drive Alexander Rose Elementary Milpitas CA 95035,15.0,2025-04-09,2025-06-09,Layoff Permanent,,,Santa Clara County,61 Educational Services,,WARN,Education Services
+1376,California,United States Cellular Corporation,1180 9th Street  Crescent City CA 95531,6.0,2025-04-08,2025-06-01,Layoff Permanent,,,Del Norte County,51 Information,,WARN,Information
+1380,Florida,"Aramark Campus, LLC",Tampa,949.0,2025-04-07,2025-06-17,Layoff,Permanent,,,Accommodation and Food Services,loss of contract with University of South Florida,WARN,Accommodation & Food Services
+1390,California,"McDonald's Restaurants of California, Inc.",4480 E. Olympic Blvd.  Los Angeles CA 90065,66.0,2025-04-07,2025-06-08,Layoff Temporary,,,Los Angeles County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+1392,California,"Air Products and Chemicals, Inc.",14700 Downey Ave.  Paramount CA 90723,37.0,2025-04-07,2025-04-07,Layoff Permanent,,,Los Angeles County,31-33 Manufacturing,,WARN,Manufacturing
+1398,Iowa,United States Cellular Corporation,Cedar Rapids,183.0,2025-04-06,2025-06-01,Mass Layoff,,,Linn,Information,,WARN,Information
+1403,Maryland,"USCC Management Services, LLC",Lavale,17.0,2025-04-06,2025-06-01,Mass Layoff - No Recall,,,,517112,"12317 Winchester Rd. Ste 300, Lavale, MD 21502",WARN,Information
+1404,Maryland,Guidehouse Digital LLC’s,Bowie,38.0,2025-04-06,2025-11-29,Mass Layoff - No Recall,,,,541611,"17101 Melford Blvd. Bowie, MD 20715",WARN,Professional Services
+1411,California,"McDoanld's Restaurant of California, Inc.",2712 Santa Monica Blvd.  Santa Monica CA 90404,67.0,2025-04-03,2025-06-08,Layoff Temporary,,,Los Angeles County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+1413,California,Pfizer,10555 Science Center Dr.  San Diego CA 92121,56.0,2025-04-03,2025-06-01,Layoff Permanent,,,San Diego County,42 Wholesale Trade,,WARN,Retail Trade
+1418,California,"McDonald's Restaurant of California, Inc.",5645 E. Kings Canyon Road  Fresno CA 93727,105.0,2025-04-02,2025-06-08,Layoff Temporary,,,Fresno County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+1419,California,FEAM Aero,1490 S. Vineyard Ave. Ste D  Ontario CA 91761,8.0,2025-04-02,2025-06-01,Layoff Permanent,,,San Bernardino County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1422,Maryland,American Institutes of Research (AIR),Rockville,12.0,2025-04-02,2025-05-31,Mass Layoff - No Recall,,,,541720,"6003 Executive Blvd, 3rd Floor Rockville, MD 20852",WARN,Professional Services
+1428,Iowa,Durham School Servicees,Ames,62.0,2025-04-01,2025-05-30,Mass Layoff,,,Story,Transportation and Warehousing,,WARN,Transportation & Warehousing
+1429,Iowa,Corteva Agriscience,Johnston,44.0,2025-04-01,2025-05-08,Mass Layoff,,,Polk,Wholesale Trade,,WARN,Other
+1431,California,Chevron,"5001 Executive Parkway, Suite 200  San Ramon CA 94583",600.0,2025-04-01,2025-05-31,Layoff Permanent,,,Contra Costa County,21 Mining Quarrying Oil and Gas Exraction,,WARN,"Mining, Quarrying, & Oil/Gas Extraction"
+1439,Maryland,Leidos,Frederick,16.0,2025-04-01,2025-05-31,Mass Layoff - No Recall,,,,541715,"5202 Presidents Court, Suite 110 Frederick, MD 21703",WARN,Professional Services
+1444,Illinois,"KSM Electronics, Inc.",Warrenville,85.0,2025-03-31,2025-05-29,Layoff,Permanent,No,DuPage,Wholesalers - Electronic Parts and Equipment,,WARN,Other
+1468,Iowa,Whirlpool Corporation,Amana,651.0,2025-03-31,2025-05-31,Mass Layoff,,,Iowa,Manufacturing,,WARN,Manufacturing
+1469,California,"Block, Inc.","1955 Broadway, Suite 600  Oakland CA 94612",240.0,2025-03-31,2025-05-23,Layoff Permanent,,,Alameda County,51 Information,,WARN,Information
+1472,Iowa,ASM Global,Dubuque,160.0,2025-03-31,2025-06-29,Mass Layoff,,,Dubuque,Accommodation and Food Services,,WARN,Accommodation & Food Services
+1476,California,All For Kids,"515 Cabrillo Park Drive, Suite 100  Santa Ana CA 92701",66.0,2025-03-31,2025-05-16,Layoff Permanent,,,Orange County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1478,California,Memorial Care,2801 Atlantic Avenue  Long Beach CA 90806,60.0,2025-03-31,2025-04-13,Layoff Permanent,,,Los Angeles County,61 Educational Services,,WARN,Education Services
+1480,California,Crothall Healthcare,800 S. Main Street  Corona CA 92882,55.0,2025-03-31,2025-04-15,Layoff Permanent,,,Riverside County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1481,California,"Transdev Services, Inc.",3333 S. Market Street  Redding CA 96003,48.0,2025-03-31,2025-05-30,Layoff Permanent,,,Shasta County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1482,Florida,Merlin Magic Shop,Lake Wales,31.0,2025-03-31,,Layoff,Permanent,,,Retail Trade,,WARN,Retail Trade
+1485,California,Cruise LLC,333 Brannan Street  Daly City CA 94017,2.0,2025-03-31,2025-03-31,Layoff Permanent,,,San Mateo County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1489,Maryland,Department of Health and Human Services (HHS),Rockville,925.0,2025-03-30,2025-05-29,Mass Layoff - No Recall,,,,923120,,WARN,Public Administration
+1497,Florida,Jacksonville Orthopedic Institute San Marco Physician,Jacksonville,65.0,2025-03-30,,Layoff,Permanent,,,Health Care and Social Assistance,,WARN,Healthcare
+1506,Florida,Jacksonville Orthopedic Institute San Marco Rehabilitation,Jacksonville,6.0,2025-03-30,,Layoff,Permanent,,,Health Care and Social Assistance,,WARN,Healthcare
+1511,Florida,Jacksonville Orthopedic Institute Mandarin Rehabilitation,Jacksonville,2.0,2025-03-30,,Layoff,Permanent,,,Health Care and Social Assistance,,WARN,Healthcare
+1513,Florida,Jacksonville Orthopedic Institute Nocatee Rehabilitation,Jacksonville,1.0,2025-03-30,,Layoff,Permanent,,,Health Care and Social Assistance,,WARN,Healthcare
+1514,Illinois,"TreeHouse Private Brands, Inc.",South Beloit,129.0,2025-03-27,,Layoff,Permanent,No,Winnebago,Manufacturing - Cookie and Cracker,,WARN,Manufacturing
+1525,California,"Gilead Sciences, Inc.",333 Lakeside Drive  Foster City CA 94404,149.0,2025-03-26,2025-05-26,Layoff Permanent,,,San Mateo County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1527,California,"Roche Molecular Systems, Inc.",2881 Scott Blvd  Santa Clara CA 95050,108.0,2025-03-26,2025-05-27,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1530,Missouri,"Block, Inc.",Remote,67.0,2025-03-26,2025-05-23,Layoff,,,,Software Publisher,,WARN,Other
+1531,California,"Nkarta, Inc.",1150 Veterans Blvd.  South San Francisco CA 94080,52.0,2025-03-26,2025-03-30,Layoff Permanent,,,San Mateo County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1539,Illinois,"Primo Brands, Inc.",Elgin,10.0,2025-03-25,2025-06-30,Layoff,Permanent,No,Kane,Manufacturing - Bottled Water,,WARN,Manufacturing
+1545,California,SK hynix America Inc. (SKHYA),10951 White Rock Road  Rancho Cordova CA 95670,58.0,2025-03-25,2025-05-18,Layoff Permanent,,,Sacramento County,42 Wholesale Trade,,WARN,Retail Trade
+1547,Maryland,"ICF International, Inc., through its subsidiaries ICF Incorporated, LLC, ICF Macro, Inc.",Rockville,14.0,2025-03-25,2025-03-13,Mass Layoff - No Recall,,,,541611,"530 Gaither Road, Suite 500 Rockville, MD 20850",WARN,Professional Services
+1549,California,"Primo Brands, Inc.",1363 Citrus Avenue  Riverside CA 92507,2.0,2025-03-25,2025-06-30,Layoff Permanent,,,Riverside County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+1550,Illinois,"Block, Inc.",Statewide,25.0,2025-03-24,2025-05-23,Layoff,Permanent,No,Multiple,Finance and Insurance,,WARN,Finance & Insurance
+1555,Maryland,"S3 Shared Service Solutions, Inc.",Baltimore,84.0,2025-03-24,2025-05-31,Mass Layoff - No Recall,,,,561990,"1501 S. Clinton Street, 14th Floor Baltimore, MD 21224",WARN,Administrative & Support Services
+1557,California,Hyatt Corporation dba Waterfront Hotel,10 Washington Street  Oakland CA 94607,57.0,2025-03-24,2025-03-17,Layoff Permanent,,,Alameda County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+1558,Missouri,Hogan Services,St. Louis,53.0,2025-03-24,2025-06-05,Layoff,,,,Logistics / Delivery Services,,WARN,Other Services
+1559,California,Sodexo,200 Maritime Academy Drive  Vallejo CA 94590,50.0,2025-03-24,2025-05-03,Layoff Permanent,,,Solano County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+1564,California,"Key Energy Services, LLC",330 Industrial Way  Taft CA 93268,14.0,2025-03-24,2025-05-22,Layoff Permanent,,,Kern County,21 Mining Quarrying Oil and Gas Exraction,,WARN,"Mining, Quarrying, & Oil/Gas Extraction"
+1575,California,AppLovin Corporation,1100 Page Mill Road  Palo Alto CA 94304,97.0,2025-03-20,2025-03-20,Layoff Permanent,,,Santa Clara County,51 Information,,WARN,Information
+1581,Minnesota,HibTac,Hibbing,600.0,2025-03-19,2025-03-27,Temporary Layoff,RR in Progress,,,Mining/Oil/Gas Extraction,,WARN,"Mining, Quarrying, & Oil/Gas Extraction"
+1583,Florida,National Distribution Centers LLC,Orlando,73.0,2025-03-19,,Layoff,Permanent,,,Transportation and Warehousing,,WARN,Transportation & Warehousing
+1584,California,"Niantic, Inc.","1 Ferry Building, #200  San Francisco CA 94111",68.0,2025-03-19,2025-05-19,Layoff Permanent,,,San Francisco County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1590,California,Southeast Service Corporation dba SSC Services for Education,2100 Mount Diablo Scenic Blvd  Danville CA 94506,13.0,2025-03-19,2025-05-30,Layoff Permanent,,,Contra Costa County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+1593,California,Collins Aerospace,850 Lagoon Dr  Chula Vista CA 91910,119.0,2025-03-18,2025-05-11,Layoff Permanent,,,San Diego County,31-33 Manufacturing,,WARN,Manufacturing
+1597,California,Cruise LLC,1201 Bryant Street  San Francisco CA 94103,13.0,2025-03-18,2025-05-17,Layoff Permanent,,,San Francisco County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1599,Florida,Wells Fargo,Jacksonville,4.0,2025-03-18,,Layoff,Permanent,,,Finance and Insurance,,WARN,Finance & Insurance
+1603,Mississippi,Mississippi Polymers,Corinth,102.0,2025-03-17,2025-06-23,Layoff,,,Alcorn,325211 – Plastic Material Resin Manufacturing,Non-WARN - unexpected drop in orders,WARN,Manufacturing
+1607,California,Atara Biotherapeutics,1280 Rancho Conejo Blvd.  Newbury Park CA 91320,31.0,2025-03-17,2025-05-01,Layoff Permanent,,,Ventura County,31-33 Manufacturing,,WARN,Manufacturing
+1611,California,"Mattel, Inc.",333 Continental Blvd  El Segundo CA 90245,120.0,2025-03-16,2025-05-18,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+1612,California,Southern California Edison Company,1 Innovation Way  Pomona CA 91768,86.0,2025-03-16,2025-05-19,Layoff Permanent,,,Los Angeles County,22 Utilities,,WARN,Utilities
+1613,Florida,"SLS South Beach Employer, LLC",Miami Beach,66.0,2025-03-16,2025-05-27,Layoff,Permanent,,,Accommodation and Food Services,,WARN,Accommodation & Food Services
+1621,Florida,SPOONFUL MANAGEMENT MIAMI LLC,Miami Beach,134.0,2025-03-13,2025-05-27,Layoff,Permanent,,,Accommodation and Food Services,,WARN,Accommodation & Food Services
+1622,Maryland,"COR Restaurant Services, LLC (Little Blue Menu)",College Park,91.0,2025-03-13,2025-05-13,Mass Layoff - No Recall,,,,722511,"7242 Baltimore Avenue College Park, MD 20740",WARN,Accommodation & Food Services
+1623,Florida,AT&T,Sunrise,88.0,2025-03-13,2025-05-12,Layoff,Permanent,CWA District 3,,Information,,WARN,Information
+1628,California,AT&T,4480 Kester Avenue  Sherman Oaks CA 91403,47.0,2025-03-13,2025-05-12,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+1631,California,Corteva Agriscience LLC,901 Loveridge Road  Pittsburg CA 94565,1.0,2025-03-13,2025-07-03,Layoff Permanent,,,Contra Costa County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1633,Iowa,Collins Aerospace,Cedar Rapids,160.0,2025-03-12,2025-04-13,Mass Layoff,,,Linn,Manufacturing,,WARN,Manufacturing
+1635,Maryland,Jhpiego Corporation,Baltimore,130.0,2025-03-12,2025-05-11,Mass Layoff - No Recall,,,,541611,"1615 Thames St #200 Baltimore, MD 21231",WARN,Professional Services
+1637,Maryland,"Johns Hopkins University, Bloomberg School of Public Health (BSPH) Center for Communication Programs",Baltimore,107.0,2025-03-12,2025-05-11,Mass Layoff - No Recall,,,,611310,"111 Market Place, Suite 310 Baltimore, Maryland 21202",WARN,Education Services
+1639,California,"Sutro Biopharma, Inc.",870 Industrial Road  San Carlos CA 94070,62.0,2025-03-12,2025-07-31,Layoff Permanent,,,San Mateo County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1640,California,Cepheid,904 Caribbean Drive  Sunnyvale CA 94089,61.0,2025-03-12,2025-05-11,Layoff Permanent,,,Santa Clara County,31-33 Manufacturing,,WARN,Manufacturing
+1644,Illinois,Penske Logistics LLC,Aurora,96.0,2025-03-11,2025-03-30,Layoff,Permanent,No,Kane,Transportation and Warehousing,,WARN,Transportation & Warehousing
+1645,California,"Gate Gourmet, Inc.",645 West Field Road  San Francisco CA 94128,835.0,2025-03-11,2025-05-12,Layoff Permanent,,,San Francisco County,72 Accommodation and Food Services,,WARN,Accommodation & Food Services
+1654,California,onsemi,150 Rose Orchard Way  San Jose CA 95134,51.0,2025-03-11,2025-05-10,Layoff Permanent,,,Santa Clara County,42 Wholesale Trade,,WARN,Retail Trade
+1655,Maryland,"ICF International, Inc., through its subsidiaries ICF Incorporated, LLC, ICF Macro, Inc.",Rockville,41.0,2025-03-11,2025-03-03,Mass Layoff - No Recall,,,,541611,"530 Gaither Road, Suite 500 Rockville, MD 20850",WARN,Professional Services
+1657,California,"F&E Aircraft Maintenance dba FEAM Aero, LLC",17405 Heacock Street  Moreno Valley CA 92551,6.0,2025-03-11,2025-05-09,Layoff Permanent,,,Riverside County,31-33 Manufacturing,,WARN,Manufacturing
+1658,Illinois,American Institute of Research,Chicago,75.0,2025-03-10,2025-05-08,Layoff,Permanent,No,Cook,Professional and Technical Services,,WARN,Professional Services
+1680,Maryland,American Institutes of Research (AIR),Rockville,34.0,2025-03-09,2025-05-08,Mass Layoff - No Recall,,,,541720,"6003 Executive Blvd, 3rd Floor Rockville, MD 20852",WARN,Professional Services
+1688,California,"Bell-Carter Foods, LLC",1012 Second Street  Corning CA 96021,63.0,2025-03-06,2025-05-08,Layoff Permanent,,,Tehama County,31-33 Manufacturing,,WARN,Manufacturing
+1689,California,"Centerra, a subsidiary of Constellis, LLC",7684 Pogo Row  San Diego CA 92154,55.0,2025-03-06,2025-05-05,Layoff Permanent,,,San Diego County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+1692,Florida,"SP+, A Metropolis Company",Orlando,110.0,2025-03-05,2025-04-30,Layoff,,ATU Union Local 1596,,Transportation and Warehousing,,WARN,Transportation & Warehousing
+1698,Illinois,"Primo Brands, Inc.",Chicago,22.0,2025-03-04,,Layoff,Permanent,Yes,Cook,Manufacturing - Bottled Water,,WARN,Manufacturing
+1701,Maryland,"Creative Associates International, Inc.",Chevy Chase,79.0,2025-03-04,2025-05-02,Mass Layoff - No Recall,,,,541611,"445 Willard Avenue Chevy Chase, MD 20815",WARN,Professional Services
+1702,California,Maersk Warehousing & Distribution Services USA LLC,4323 Indian Ave.  Perris CA 92571,75.0,2025-03-04,2025-04-29,Layoff Permanent,,,Riverside County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1704,Maryland,UPS,Gaithersburg,69.0,2025-03-04,2025-04-21,Mass Layoff - No Recall,,,,492110,"9401 Gaither Road Gaithersburg, MD 20877",WARN,Transportation & Warehousing
+1707,California,"LUKE Holdings, Inc.",7681 Pogo Road  San Diego CA 92154,61.0,2025-03-04,2025-02-27,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1710,California,"Catholic Charities, Diocese of San Diego",631 Camino Del Rio South  San Diego CA 92108,42.0,2025-03-04,2025-04-29,Layoff Permanent,,,San Diego County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1711,Florida,"Primo Brands, Inc.",Lakeland,39.0,2025-03-04,,Layoff,Permanent,,,Manufacturing,,WARN,Manufacturing
+1715,California,Central Garden & Pet,2775 Giant Road  Richmon CA 94806,5.0,2025-03-04,2025-05-30,Layoff Permanent,,,Contra Costa County,42 Wholesale Trade,,WARN,Retail Trade
+1719,Florida,Royal Palm South Beach Miami,Miami Beach,134.0,2025-03-03,,Layoff,,,,Accommodation and Food Services,,WARN,Accommodation & Food Services
+1724,California,Wells Fargo,333 Market Street  San Francisco CA 94105,56.0,2025-03-03,2025-04-04,Layoff Permanent,,,San Francisco County,52 Finance and Insurance,,WARN,Finance & Insurance
+1725,Florida,"Veyer, LLC",Orlando,55.0,2025-03-03,2025-04-27,Layoff,Permanent,,,Manufacturing,,WARN,Manufacturing
+1726,Iowa,Wells Fargo,West Des Moines,33.0,2025-03-03,2025-04-03,Mass Layoff,,,Polk,Finance and Insurance,,WARN,Finance & Insurance
+1727,Maryland,Leidos,Baltimore,20.0,2025-03-03,2025-05-01,Mass Layoff - No Recall,,,,722513,"3300 Lord Baltimore Drive Baltimore, MD 21244",WARN,Accommodation & Food Services
+1731,California,UPS,430 N. McKinley Avenue  Los Angeles CA 90059,144.0,2025-03-02,2025-04-30,Layoff Permanent,,,Los Angeles County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1736,California,Cruise LLC,333 Brannan Street  San Francisco CA 94107,12.0,2025-03-02,2025-04-21,Layoff Permanent,,,San Francisco County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1737,Iowa,Lutheran Services of Iowa,Des Moines,10.0,2025-03-02,2025-03-27,Mass Layoff,,,Polk,Health Care and Social Assistance,,WARN,Healthcare
+1738,Iowa,Lutheran Services of Iowa,Des Moines,6.0,2025-03-02,2025-04-24,Mass Layoff,,,Polk,Health Care and Social Assistance,,WARN,Healthcare
+1739,California,Cruise LLC,333 Brannan Street  San Francisco CA 94107,4.0,2025-03-02,2025-04-28,Layoff Permanent,,,San Francisco County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1740,Iowa,Lutheran Services of Iowa,Des Moines,1.0,2025-03-02,2025-06-26,Mass Layoff,,,Polk,Health Care and Social Assistance,,WARN,Healthcare
+1773,California,"Autodesk, Inc.",One Market Street  San Francisco CA 94105,289.0,2025-02-27,2025-04-28,Layoff Permanent,,,San Francisco County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1775,California,Charter Communications,14221 Covello Street  Van Nuys CA 91405,171.0,2025-02-27,2025-04-30,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+1776,California,"CBRE, Inc.",2244 Walnut Grove Avenue  Rosemead CA 91770,78.0,2025-02-27,2025-05-01,Layoff Permanent,,,Los Angeles County,53 Real Estate and Rental Leasing,,WARN,Other
+1793,California,"GEP Administrative Services, LLC dba Entertainment Partners",2950 N. Hollywood Way  Burbank CA 91505,64.0,2025-02-26,2025-05-01,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+1794,California,Bristol Myers Squibb,700 Bay Rd  Redwood City CA 94063,57.0,2025-02-26,2025-04-21,Layoff Permanent,,,San Mateo County,31-33 Manufacturing,,WARN,Manufacturing
+1796,California,Google,19520 Jamboree Road  Irvine CA 92612,42.0,2025-02-26,2025-04-05,Layoff Permanent,,,Orange County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1801,California,Google,19510 Jamboree Road  Irvine CA 92612,10.0,2025-02-26,2025-04-26,Layoff Permanent,,,Orange County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1805,Illinois,"Elite Staffing, Inc. (at Nestle USA's Nation Pizza)",Schaumburg,134.0,2025-02-25,,Layoff,Permanent,No,Cook,Employment Placement Agencies,,WARN,Other
+1809,California,"WB Games Inc. and WarnerMedia Services, LLC",2742-2752 State Street  Carlsbad CA 92008,51.0,2025-02-25,2025-04-25,Layoff Permanent,,,San Diego County,51 Information,,WARN,Information
+1812,California,"Genesis Supreme RV, Inc.",3411 N. Perris Boulevard  Perris CA 92571,18.0,2025-02-25,2025-03-27,Layoff Permanent,,,Riverside County,31-33 Manufacturing,,WARN,Manufacturing
+1813,California,City National Bank,555 S. Flower Street  Los Angeles CA 90071,12.0,2025-02-25,2025-04-21,Layoff Permanent,,,Los Angeles County,52 Finance and Insurance,,WARN,Finance & Insurance
+1820,Florida,UPS,Hialeah,65.0,2025-02-24,2025-04-26,Layoff,Permanent,Teamsters Local 769,,Administrative and Support and Waste Management and Remediation Services,,WARN,Accommodation & Food Services
+1822,California,Castle Oaks Golf Club,1000 Castle Oaks Drive  Ione CA 95640,50.0,2025-02-24,2025-04-24,Layoff Permanent,,,Amador County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+1823,California,Corteva Agriscience LLC,901 Loveridge Road  Pittsburg CA 94565,26.0,2025-02-24,2025-05-29,Layoff Permanent,,,Contra Costa County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1824,California,Kaiser Foundation Hospitals,One Kaiser Plaza  Oakland CA 94612,14.0,2025-02-24,2025-04-24,Layoff Permanent,,,Alameda County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1827,Florida,The Ritz-Carlton,Miami,425.0,2025-02-23,,Layoff,Temporary,,,Accommodation and Food Services,,WARN,Accommodation & Food Services
+1828,Illinois,Labor Network (at Nestle USA's Nation Pizza),Schaumburg,416.0,2025-02-23,,Layoff,Permanent,No,Cook,Temporary Help Services,,WARN,Other Services
+1838,Florida,Transportation Operations & Management Solution LLC,Orlando,50.0,2025-02-23,,Layoff,Permanent,,,Transportation and Warehousing,,WARN,Transportation & Warehousing
+1839,Florida,FirstService Residential,Dania,42.0,2025-02-23,,Layoff,Permanent,,,Real Estate and Rental and Leasing,,WARN,Other
+1845,Iowa,John Deere Des Moines Work,Ankeny,72.0,2025-02-20,2025-04-27,Mass Layoff,,,Polk,Manufacturing,,WARN,Manufacturing
+1848,Iowa,John Deere Des Moines Work,Ankeny,38.0,2025-02-20,2025-04-06,Mass Layoff,,,Polk,Manufacturing,,WARN,Manufacturing
+1849,Iowa,John Deere Des Moines Work,Ankeny,9.0,2025-02-20,2025-03-30,Mass Layoff,,,Polk,Manufacturing,,WARN,Manufacturing
+1860,California,"Zendesk, Inc.",181 S. Fremont St.  San Francisco CA 94105,51.0,2025-02-18,2025-04-20,Layoff Permanent,,,San Francisco County,51 Information,,WARN,Information
+1862,California,Nikola Corporation,13443 Freeway Drive  Santa Fe Springs CA 90670,7.0,2025-02-18,2025-04-20,Layoff Permanent,,,Los Angeles County,31-33 Manufacturing,,WARN,Manufacturing
+1865,California,Nikola,917 Stillwater Road  West Sacramento CA 95605,1.0,2025-02-18,2025-04-20,Layoff Permanent,,,Yolo County,31-33 Manufacturing,,WARN,Manufacturing
+1867,California,"F21 OpCo, LLC (F21)",110 E 9th Street Suite A500 Los Angeles CA 90079,358.0,2025-02-17,2025-04-20,Layoff Permanent,,,Los Angeles County,44-45 Retail Trade,,WARN,Retail Trade
+1869,California,"Smart & Final Logistics, LLC",2360 Cottonwood Avenue  Riverside CA 92508,194.0,2025-02-17,2025-04-20,Layoff Permanent,,,Riverside County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1870,Florida,Harvest Sherwood Food Distributors,Opa Locka,131.0,2025-02-17,,Layoff,Permanent,,,Accommodation and Food Services,,WARN,Accommodation & Food Services
+1871,California,"Ajinomoto Foods North America, Inc.",2395 American Ave  Hayward CA 94545,116.0,2025-02-17,2025-04-11,Layoff Permanent,,,Alameda County,31-33 Manufacturing,,WARN,Manufacturing
+1872,California,STAAR Surgical Company,1911 Walker Avenue  Monrovia CA 91016,110.0,2025-02-17,2025-04-20,Layoff Permanent,,,Los Angeles County,31-33 Manufacturing,,WARN,Manufacturing
+1877,California,"Niagara Bottling, LLC",1440 Bridgegate Drive  Diamond Bar CA 91765,73.0,2025-02-17,2025-04-14,Layoff Permanent,,,Los Angeles County,31-33 Manufacturing,,WARN,Manufacturing
+1880,California,Kuehne + Nagel Inc.,"2525 W 190th St, M/S 22 1kn  Torrance CA 90504",59.0,2025-02-17,2025-04-29,Layoff Permanent,,,Los Angeles County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1883,California,"Smart & Final Stores, LLC",2360 Cottonwood Avenue  Riverside CA 92508,23.0,2025-02-17,2025-04-20,Layoff Permanent,,,Riverside County,44-45 Retail Trade,,WARN,Retail Trade
+1884,California,Parker Engine Mobile,1640 Cummins Drive  Modesto CA 95358,20.0,2025-02-17,2025-04-20,Layoff Permanent,,,Stanislaus County,31-33 Manufacturing,,WARN,Manufacturing
+1885,Florida,Behavioral Health Link,Rotonda West,1.0,2025-02-17,2025-03-24,Layoff,Permanent,,,Health Care and Social Assistance,,WARN,Healthcare
+1886,Maryland,"DAI Global, LLC",Bethesda,124.0,2025-02-16,2025-02-16,Mass Layoff - Temporary,,,,541611,"7600 Wisconsin Avenue, Suite 200 Bethesda, MD 20814",WARN,Professional Services
+1894,California,Flagship Facility Services LLC,1 Hacker Way Bldg. 12  Menlo Park CA 94025,35.0,2025-02-13,2025-02-13,Layoff Permanent,,,San Mateo County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+1895,Maryland,Atlantic Union Bankshares Corporation (Atlantic Union),Olney,28.0,2025-02-13,2025-04-14,Mass Layoff - No Recall,,,,522110,"17735 Georgia Avenue Olney, MD 20832 (Administrative Center)",WARN,Finance & Insurance
+1896,Wisconsin,Molson Coors Beverage Company - Revision 2,Chippewa,0.0,2025-02-13,,Change to Layoff Schedule,,,Chippewa,Breweries,,WARN,Other
+1899,Maryland,EnCompass LLC,Silver Spring,194.0,2025-02-12,2025-02-11,Mass Layoff - No Recall,,,,541611,"1100 Wayne Avenue Suite 1200 Silver Spring, MD 20910",WARN,Professional Services
+1900,California,"Illumina, Inc.",5200 Illumina Way  San Diego CA 92122,96.0,2025-02-12,2025-04-13,Layoff Permanent,,,San Diego County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1904,California,Telesign Corporation,"13274 Fiji Way, Suite 600  Marina Del Rey CA 90292",98.0,2025-02-11,2025-03-13,Layoff Permanent,,,Los Angeles County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1908,California,"CareFusion Resources, LLC, a subsidiary of Becton, Dickinson and Company",3750 Torrey View Court Building A & B San Diego CA 92130,48.0,2025-02-11,2024-12-19,Layoff Permanent,,,San Diego County,42 Wholesale Trade,,WARN,Retail Trade
+1910,Florida,"Stryker Employment Company, LLC",Lakeland,8.0,2025-02-11,2025-04-14,Layoff,Permanent,,,Manufacturing,,WARN,Manufacturing
+1914,Maryland,"Science Systems and Applications, Inc. (SSAI)",Lanham,148.0,2025-02-10,2025-04-07,Mass Layoff - No Recall,,,,541715,"10210 Greenbelt Road, Suite 600 Lanham, MD 20706",WARN,Professional Services
+1918,California,"Bio-Rad Laboratories, Inc.",1000 Alfred Nobel Drive  Hercules CA 94547,113.0,2025-02-10,2025-04-10,Layoff Permanent,,,Contra Costa County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1924,Maryland,"Creative Associates International, Inc.",Chevy Chase,37.0,2025-02-10,2025-01-31,Mass Layoff - No Recall,,,,541990,"445 Willard Avenue Chevy Chase, MD 20815",WARN,Professional Services
+1929,California,Kaiser Foundation Hospitals,74 N. Pasadena Ave.  Pasadena CA 91103,4.0,2025-02-10,2025-02-09,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1930,California,ECAMSECURE,3400 E Airport Way  Long Beach CA 90806,4.0,2025-02-10,2025-04-10,Layoff Permanent,,,Los Angeles County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+1932,Maryland,Peraton’s Environmental Test & Integration Services III (ETIS III),Greenebelt,123.0,2025-02-09,2025-03-30,Mass Layoff - No Recall,,,,541620,"8800 Greenbelt Road Greenbelt, MD 20771",WARN,Professional Services
+1940,Maryland,Denison Landscape Inc.,Washington,52.0,2025-02-09,2025-04-10,Mass Layoff - No Recall,,,,561730,"8911 Oxon Hill Road Ft. Washington, MD 20744",WARN,Administrative & Support Services
+1943,California,LogRhythm Inc dba Exabeam,"1051 E Hillsdale Blvd, 4th Floor  Foster City CA 94404",43.0,2025-02-09,2025-02-03,Layoff Permanent,,,San Mateo County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1949,California,Adventist Health Simi Valley,2975 Sycamore Drive  Simi Valley CA 93065,1.0,2025-02-09,2025-02-09,Layoff Permanent,,,Ventura County,62 Healthcare and Social Assistance,,WARN,Healthcare
+1951,Florida,"Wise US, Inc.",Tampa,306.0,2025-02-06,,Layoff,Permanent,,,"Professional, Scientific, and Technical Services",,WARN,Accommodation & Food Services
+1954,Illinois,Home Partners of America LLC,Chicago,179.0,2025-02-06,2025-03-30,Layoff,Permanent,No,Cook,Real Estate Rental & Leasing,,WARN,Other
+1957,Illinois,Northwest Community Hospital,Arlington Heights,99.0,2025-02-06,,Layoff,Permanent,No,Cook,Health Care - Hospital,,WARN,Healthcare
+1964,California,"Bronco Wine Company and its affiliated entities Bivio Transport and Logistics Company, LLC and WC Ag",6342 Bystrum Rd  Ceres CA 95307,81.0,2025-02-05,2025-04-07,Layoff Permanent,,,Stanislaus County,42 Wholesale Trade,,WARN,Retail Trade
+1965,Illinois,FEAM Aero (F&E Aircraft Maintenance),Schiller Park,42.0,2025-02-05,2025-04-06,Layoff,Permanent,No,Cook,Transportation - Support Activities,,WARN,Utilities
+1968,California,"Acutus Medical, Inc.","2210 Faraday Avenue, Suite 100  Carlsbad CA 92008",24.0,2025-02-05,2025-04-06,Layoff Permanent,,,San Diego County,31-33 Manufacturing,,WARN,Manufacturing
+1971,California,"Workday, Inc.",6110 Stoneridge Mall Road  Pleasanton CA 94588,617.0,2025-02-04,2025-04-05,Layoff Permanent,,,Alameda County,51 Information,,WARN,Information
+1976,California,"Salesforce, Inc.",415 Mission Street  San Francisco CA 94105,153.0,2025-02-04,2025-04-24,Layoff Permanent,,,San Francisco County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+1982,California,Walmart,850 Cherry Avenue  San Bruno CA 94066,77.0,2025-02-04,2025-06-12,Layoff Permanent,,,San Mateo County,44-45 Retail Trade,,WARN,Retail Trade
+1988,California,Infineon Technologies Americas Corp.,195 & 198 Champion Court  San Jose CA 95134,33.0,2025-02-04,2025-02-13,Layoff Permanent,,,Santa Clara County,31-33 Manufacturing,,WARN,Manufacturing
+1991,California,Cruise LLC,333 Brannan Street  San Francisco CA 94107,489.0,2025-02-03,2025-04-04,Layoff Permanent,,,San Francisco County,48-49 Transportation and Warehousing,,WARN,Transportation & Warehousing
+1999,California,"Asana, Inc.",633 Folsom Street  San Francisco CA 94107,77.0,2025-02-03,2025-02-03,Layoff Permanent,,,San Francisco County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+2003,California,"Okta, Inc.","100 First Street, 6th Floor  San Francisco CA 94105",56.0,2025-02-03,2025-04-07,Layoff Permanent,,,San Francisco County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+2005,California,Renesas Electronics Corporation,6024 Silver Creek Valley Road  San Jose CA 95138,3.0,2025-02-03,2025-03-15,Layoff Permanent,,,Santa Clara County,31-33 Manufacturing,,WARN,Manufacturing
+2007,Maryland,"DAI Global, LLC",Bethesda,382.0,2025-02-02,2025-02-02,Mass Layoff - Temporary,,,,541611,"7600 Wisconsin Avenue, Suite 200 Bethesda, MD 20814",WARN,Professional Services
+2008,Maryland,"ABT Global, Inc.",Rockville,241.0,2025-02-02,2025-03-31,Mass Layoff - No Recall,,,,541511,"6130 Executive Boulevard Rockville, MD 20852",WARN,Professional Services
+2009,Florida,e-TeleQuote Insurance,Tampa,218.0,2025-02-02,,Layoff,Permanent,,,Finance and Insurance,,WARN,Finance & Insurance
+2052,California,Surveillance Security Inc. of Unarmed Security Guards,11301 Wilshire Blvd  Los Angeles CA 90073,122.0,2025-01-30,2025-01-30,Layoff Permanent,,,Los Angeles County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+2068,Illinois,Air Wisconsin,Chicago,225.0,2025-01-29,2025-03-30,Layoff,"Permanent - 11, Temporary - 214",Yes,Cook,Passenger Air Transportation,,WARN,Other
+2073,California,"CARGO Therapeutics, Inc.",835 Industrial Rd #400  San Carlos CA 94070,81.0,2025-01-29,2025-03-31,Layoff Permanent,,,San Mateo County,31-33 Manufacturing,,WARN,Manufacturing
+2074,California,Intel Corporation,1900 Prairie City Rd.  Folsom CA 95630,58.0,2025-01-29,2025-03-30,Layoff Permanent,,,Sacramento County,51 Information,,WARN,Information
+2077,Illinois,"Turnkey One Source, LLC at Arlo Chicago",Chicago,27.0,2025-01-29,2025-03-30,Layoff,Permanent,No,Cook,Janitorial Services,,WARN,Accommodation & Food Services
+2085,California,InvenSense Inc.,1745 Technology Drive Suite #200 San Jose CA 95110,55.0,2025-01-28,2025-03-30,Layoff Permanent,,,Santa Clara County,31-33 Manufacturing,,WARN,Manufacturing
+2086,California,Quantumscape Battery Inc.,1730 Technology Drive  San Jose CA 95110,53.0,2025-01-28,2025-03-28,Layoff Permanent,,,Santa Clara County,31-33 Manufacturing,,WARN,Manufacturing
+2091,California,Corteva Agriscience LLC,901 Loveridge Road  Pittsburg CA 94565,20.0,2025-01-28,2025-03-27,Layoff Permanent,,,Contra Costa County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+2096,California,LEGOLAND,1 LEGOLAND Drive  Carlsbad CA 92008,97.0,2025-01-27,2025-03-24,Layoff Permanent,,,San Diego County,71 Arts Entertainment and Recreation,,WARN,"Arts, Entertainment & Recreation"
+2101,Illinois,"Manpower Group US, Inc.",Aurora,49.0,2025-01-27,2025-03-27,Layoff,Permanent,No,Kane,Temporary Help Services,,WARN,Other Services
+2105,Colorado,Total Frac Solutions,,11.0,2025-01-27,2025-03-30,Closure/Mass Layoff,,,,"21,3112: Support activities for oil & gas operations",,WARN,Accommodation & Food Services
+2106,California,"ImmunityBio, Inc.",2040 E. Mariposa Avenue  El Segundo CA 90245,9.0,2025-01-27,2025-03-24,Layoff Permanent,,,Los Angeles County,31-33 Manufacturing,,WARN,Manufacturing
+2109,Colorado,QuantumScape Battery,,1.0,2025-01-27,,Mass Layoff,,,,"33,591: Battery Manufacturing",54 workers affected nationwide,WARN,Manufacturing
+2117,Florida,Bellwether Beach Resort,St. Pete Beach,107.0,2025-01-26,,Layoff,Temporary,,,Accommodation and Food Services,,WARN,Accommodation & Food Services
+2118,Illinois,"Kane County Personnel, Inc. dba Manpower",Aurora,99.0,2025-01-26,2025-03-27,Layoff,Permanent,No,Kane,Temporary Help Services,,WARN,Other Services
+2123,Missouri,Eaton Bussman,Ellisville,57.0,2025-01-26,,Layoff,,,St. Louis,Manufacturing,,WARN,Manufacturing
+2124,Iowa,NSK Americas,Clarinda,34.0,2025-01-26,2025-02-27,Mass Layoff,,,Page,Manufacturing,,WARN,Manufacturing
+2125,Florida,Legoland America,Winter Haven,234.0,2025-01-24,,Layoff,Permanent,,,"Arts, Entertainment, and Recreation",,WARN,"Arts, Entertainment & Recreation"
+2136,Illinois,"10 Roads Express, LLC",Multiple,84.0,2025-01-22,2025-03-22,Layoff,Permanent,Yes,"La Salle-8, McDonough-3, Knox-11, Warren-1, Peoria-61",Transportation - Trucking,,WARN,Transportation & Warehousing
+2137,California,"Evergreen Recycling, Inc",875 Michigan Avenue  Riverside CA 92507,57.0,2025-01-22,2025-03-23,Layoff Permanent,,,Riverside County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+2141,California,AT&T,5005 Executive Parkway  San Ramon CA 94583,8.0,2025-01-22,2025-03-23,Layoff Permanent,,,Contra Costa County,51 Information,,WARN,Information
+2146,Florida,"Bags, a Metropolis Company",Lake Buena Vista,40.0,2025-01-21,2025-02-18,Layoff,,,,Other Services (except Public Administration),professional luggage delivery services to Disney’s Pop Century Resort,WARN,Other Services
+2147,California,Kaiser Foundation Hospitals,10949 Pendleton Street  Sun Valley CA 91352,19.0,2025-01-21,2025-03-21,Layoff Permanent,,,Los Angeles County,62 Healthcare and Social Assistance,,WARN,Healthcare
+2153,California,"Fast Ride Moto, LLC",6919 North Avenue  Lemon Grove CA 91945,1.0,2025-01-20,2025-01-15,Layoff Permanent,,,San Diego County,44-45 Retail Trade,,WARN,Retail Trade
+2158,Kentucky,BANDO USA INC,,65.0,2025-01-16,2025-03-27,Layoff,,,Warren,326220,,WARN,Manufacturing
+2160,California,ECAMSECURE,3400 E Airport Way  Long Beach CA 90806,21.0,2025-01-16,2025-03-16,Layoff Permanent,,,Los Angeles County,56 Administrative and Support and Waste Management and Remediation,,WARN,Other
+2161,Wisconsin,Molson Coors Beverage Company - Revision 1,Chippewa,0.0,2025-01-16,2025-01-27,Change to Layoff Schedule,,,Chippewa,Breweries,,WARN,Other
+2163,Iowa,Dotdash Meredith,Des Moines,28.0,2025-01-15,2025-01-31,Mass Layoff,,,Polk,Information,,WARN,Information
+2165,California,Safeway Inc.,1115 Dublin Canyon Road Pleasanton CA 94588,138.0,2025-01-14,2025-02-21,Layoff Permanent,,,Alameda County,44-45 Retail Trade,,WARN,Retail Trade
+2166,California,"Columbus Manufacturing, Inc., a wholly-owned subsidiary of the Hormel Foods Corporation",30977 San Antonio Street Hayward CA 94544,125.0,2025-01-14,2025-03-14,Layoff Permanent,,,Alameda County,31-33 Manufacturing,,WARN,Manufacturing
+2170,California,AppLovin Corporation,1100 Page Mill Road Palo Alto CA 94304,89.0,2025-01-14,2025-01-14,Layoff Permanent,,,Santa Clara County,51 Information,,WARN,Information
+2174,California,Aurora Solar Inc.,"153 Kearny St., 5th Floor San Francisco CA 94108",58.0,2025-01-14,2025-01-09,Layoff Permanent,,,San Francisco County,51 Information,,WARN,Information
+2175,Iowa,"Kinze Manufacturing, Inc.",Williamsburg,53.0,2025-01-14,2025-01-14,Mass Layoff,,,Iowa,Manufacturing,,WARN,Manufacturing
+2177,California,Placer Labs Inc.,440 N. Barranca Ave #1277 Covina CA 91723,34.0,2025-01-14,2025-03-15,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+2185,California,"IGM Biosciences, Inc.",325 East Middlefield Road Mountain View CA 94043,100.0,2025-01-13,2025-03-09,Layoff Permanent,,,Santa Clara County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+2192,Illinois,The Computing Technology Industry Association,Downers Grove,47.0,2025-01-13,2025-01-08,Layoff,Permanent,No,DuPage,Technology Traninig & Certification,,WARN,Finance & Insurance
+2194,California,ACLU of Southern California,"1313 W 8th Street, #200 Los Angeles CA 90017",8.0,2025-01-13,2025-01-09,Layoff Permanent,,,Los Angeles County,81 Other Services Except Public Administration,,WARN,Other Services
+2195,California,Owens Valley Career Development Center,37190 Jose Basin Road Auberry CA 93602,4.0,2025-01-13,2025-04-10,Layoff Permanent,,,Fresno County,62 Healthcare and Social Assistance,,WARN,Healthcare
+2196,Kentucky,Get Insured,,2.0,2025-01-13,2025-02-18,Layoff,,,,524210,,WARN,Finance & Insurance
+2200,California,MotorTrend Group,"2004 E. Park Place, Unit K El Segundo CA 90245",70.0,2025-01-12,2025-03-13,Layoff Permanent,,,Los Angeles County,51 Information,,WARN,Information
+2208,Iowa,"IES Communications, LLC",Altoona,28.0,2025-01-09,2025-01-09,Mass Layoff,,,Polk,Construction,,WARN,Construction
+2210,Florida,"Stryker Employment Company, LLC",Lakeland,11.0,2025-01-09,,Layoff,Permanent,,,Manufacturing,part of layoff event affecting 500 workers,WARN,Manufacturing
+2214,Illinois,MacLellan Integrated Services (at Rivian Automotive),Normal,76.0,2025-01-08,2025-03-02,Layoff,Permanent,No,McLean,Cleaning & Maintenance Service,,WARN,Finance & Insurance
+2216,California,"Republic National Distributing Company, LLC",5100 Franklin Drive Pleasanton CA 94588,60.0,2025-01-08,2025-03-07,Layoff Permanent,,,Alameda County,42 Wholesale Trade,,WARN,Retail Trade
+2219,California,Qualcomm Incorporated,5775 Morehouse Drive San Diego CA 92121,50.0,2025-01-08,2025-03-09,Layoff Permanent,,,San Diego County,55 Management of Companies and Enterprises,,WARN,Other
+2227,Maryland,"Fila USA, Inc.",Towson,112.0,2025-01-07,2025-03-29,Mass Layoff - No Recall,,,,424340,"1 West pennsylvania Avenue, Suite 250 Towson, MD 21204",WARN,Wholesale Trade
+2235,California,Safeway Inc.,6100 Hellyer Ave. #100 San Jose CA 95138,8.0,2025-01-07,2025-02-19,Layoff Permanent,,,Santa Clara County,44-45 Retail Trade,,WARN,Retail Trade
+2243,Illinois,"Innovation Group North America, Inc.",Schaumburg,105.0,2025-01-06,,Layoff,Permanent,No,Cook,Finance and Insurance,,WARN,Finance & Insurance
+2245,Iowa,John Deere Ottumwa Works,Ottumwa,75.0,2025-01-06,2025-02-06,Mass Layoff,,,Wapello,Manufacturing,,WARN,Manufacturing
+2251,Florida,"Alico, Inc",Arcadia,72.0,2025-01-05,,Layoff,Permanent,,,Real Estate and Rental and Leasing,,WARN,Other
+2252,California,"CytomX Therapeutics, Inc.","151 Oyster Point Blvd., Suite 400 South San Francisco CA 94080",46.0,2025-01-05,2025-01-16,Layoff Permanent,,,San Mateo County,54 Professional Scientific and Technical Services,,WARN,Accommodation & Food Services
+2258,California,"Chedraui USA, Inc.",1950 South Sterling Avenue Ontario CA 91761,115.0,2025-01-02,2025-03-06,Layoff Permanent,,,San Bernardino County,44-45 Retail Trade,,WARN,Retail Trade
